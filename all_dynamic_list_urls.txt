@@ -1,0 +1,100 @@
+AetSharepoint: Domains	http://pxylist.aetna.com/proxy/AetSharepoint.domains.txt
+Aetna MSLync: IPRange	http://pxylist.aetna.com/proxy/AetnaLync.iprange.txt
+AllowAIChatbot: URLS	https://proxyconsole.aetna.com/prod/AllowAIChatbot.urls.txt
+AllowAIChatbot:Domains	https://proxyconsole.aetna.com/prod/AllowAIChatbot.domains.txt
+AllowCerts: Domains	https://proxyconsole.aetna.com/prod/AllowCerts.domains.txt
+AllowHCDS: Domains	https://proxyconsole.aetna.com/prod/AllowHCDS.domains.txt
+AllowHCDS: URLs	https://proxyconsole.aetna.com/prod/AllowHCDS.urls.txt
+AllowLimited: Domains	https://proxyconsole.aetna.com/prod/AllowLimited.domains.txt
+AllowLimited: URLs	https://proxyconsole.aetna.com/prod/AllowLimited.urls.txt
+AllowListProd: Domains	https://proxyconsole.aetna.com/prod/AllowListProd.domains.txt
+AllowListProd: URLs	https://proxyconsole.aetna.com/prod/AllowListProd.urls.txt
+ApprovedCloudStorage: Domains	https://proxyconsole.aetna.com/prod/ApprovedCloudStorage.domains.txt
+BandwidthDownloads: Domains	http://pxylist.aetna.com/proxy/Bandwidth-Downloads.domains.txt
+BandwidthUploads: Domains	http://pxylist.aetna.com/proxy/Bandwidth-Uploads.domains.txt
+BigTinCanHosts: IPRange	http://pxylist.aetna.com/proxy/BigTinCanHosts.iprange.txt
+Blocked Dest IP	http://pxylist.aetna.com/proxy/BlockedDestIP.iprange.txt
+Blocked Hosts	http://pxylist.aetna.com/proxy/BlockedHosts.iprange.txt
+Box: Domains	http://pxylist.aetna.com/proxy/Box.domains.txt
+Bypass-SSLinspect: Domains	http://pxylist.aetna.com/proxy/Bypass-SSLinspect.domains.txt
+BypassApps: URLs	http://pxylist.aetna.com/proxy/BypassApps.urls.txt
+Checkpoint: IPRange	http://pxylist.aetna.com/proxy/Checkpoint.iprange.txt
+CoventryExtranet: Domains	http://pxylist.aetna.com/proxy/CoventryExtranet.domains.txt
+DenyCloudStorage: Domains	https://proxyconsole.aetna.com/prod/DenyCloudStorage.domains.txt
+DenyCloudStorage: URLs	https://proxyconsole.aetna.com/prod/DenyCloudStorage.urls.txt
+DenyListProd: Domains	https://proxyconsole.aetna.com/prod/DenyListProd.domains.txt
+DenyListProd: URLs	https://proxyconsole.aetna.com/prod/DenyListProd.urls.txt
+DenyListProdException: Domains	https://proxyconsole.aetna.com/prod/DenyListProd_Exception.domains.txt
+DenyListProdException: URLs	https://proxyconsole.aetna.com/prod/DenyListProd_Exception.urls.txt
+Facebook: URL Path	http://pxylist.aetna.com/proxy/Facebook.urlpath.txt
+Facebook: URLs	http://pxylist.aetna.com/proxy/Facebook.urls.txt
+Geolocation.Blocked.Countries	http://pxylist.aetna.com/proxy/Geolocation.Blocked.Countries.txt
+GithubRepoAllowURLList	https://proxyconsole.aetna.com/manual/GithubRepoAllowList.urls.txt
+HTTPSAllowListProd: Domains	https://proxyconsole.aetna.com/prod/HTTPSAllowListProd.domains.txt
+HTTPSAllowListProd: URLs	https://proxyconsole.aetna.com/prod/HTTPSAllowListProd.urls.txt
+IGmimecast	https://proxyconsole.aetna.com/prod/IGmimecast.domains.txt
+Internal Allowed Hosts: Domains	http://pxylist.aetna.com/proxy/InternalAllowedHosts.domains.txt
+Internal Allowed IP: IPRange	http://pxylist.aetna.com/proxy/InternalAllowedIP.iprange.txt
+Internal Allowed Ports: Number	http://pxylist.aetna.com/proxy/InternalAllowedPorts.number.txt
+KonyInetAccess: Domains	https://proxyconsole.aetna.com/prod/Kony_Inet_Access.domains.txt
+KonyInetAccess: URLs	https://proxyconsole.aetna.com/prod/Kony_Inet_Access.urls.txt
+NoAuthProd: Domains	https://proxyconsole.aetna.com/prod/NoAuthProd.domains.txt
+NoAuthProd: URLs	https://proxyconsole.aetna.com/prod/NoAuthProd.urls.txt
+NoCache: Domains	https://proxyconsole.aetna.com/prod/NoCache.domains.txt
+NoCache: URLs	https://proxyconsole.aetna.com/prod/NoCache.urls.txt
+NoChunkEncode: Domains	http://pxylist.aetna.com/proxy/NoChunkEncode.domains.txt
+OWAMercyMaricopa: Domains	https://proxyconsole.aetna.com/prod/OWAMercyMaricopa.domains.txt
+OWAMercyMaricopa: URLs	https://proxyconsole.aetna.com/prod/OWAMercyMaricopa.urls.txt
+OperationBlock:Domains	https://proxyconsole.aetna.com/prod/operationblock.domains.txt
+OperationBlock:Urls	https://proxyconsole.aetna.com/prod/operationblock.urls.txt
+PCI_Inet_Access: Domains	https://proxyconsole.aetna.com/prod/PCI_Inet_Access.domains.txt
+PCI_Inet_Access: URLs	https://proxyconsole.aetna.com/prod/PCI_Inet_Access.urls.txt
+ProdOffice365: Domains	https://proxyconsole.aetna.com/prod/ProdOffice365.domains.txt
+ProdSSLinspect : Domains	https://proxyconsole.aetna.com/prod/ProdSSLinspect.domains.txt
+ProdSSLinspect : URLs	https://proxyconsole.aetna.com/prod/ProdSSLinspect.urls.txt
+ProdVontuSSL: Domains	https://proxyconsole.aetna.com/prod/ProdVontuSSL.domains.txt
+ProdVontuSSL: URLs	https://proxyconsole.aetna.com/prod/ProdVontuSSL.urls.txt
+Prod_AVException: Domains	https://proxyconsole.aetna.com/prod/Prod_AVException.domains.txt
+Prod_AVException: URLs	https://proxyconsole.aetna.com/prod/Prod_AVException.urls.txt
+Prod_AllowTeams: Domains	https://proxyconsole.aetna.com/prod/Prod_AllowTeams.domains.txt
+Prod_Allow_RA: Domains	https://proxyconsole.aetna.com/prod/Prod_allow_RA.domains.txt
+Prod_Allow_RA: URLs	https://proxyconsole.aetna.com/prod/Prod_allow_RA.urls.txt
+Prod_BC_ProfNetx: Domains	https://proxyconsole.aetna.com/prod/Prod_BC_ProfNetx.domains.txt
+Prod_BC_ProfNetx: URLs	https://proxyconsole.aetna.com/prod/Prod_BC_ProfNetx.urls.txt
+Prod_BypassDLP: Domains	https://proxyconsole.aetna.com/prod/PROD_BypassDLP.domains.txt
+Prod_BypassDLP: URLs	https://proxyconsole.aetna.com/prod/PROD_BypassDLP.urls.txt
+Prod_ConnectInspect	https://proxyconsole.aetna.com/prod/Prod_ConnectInspect.domains.txt
+Prod_Infosec_Redirect: Domains	https://proxyconsole.aetna.com/prod/PROD_infosec_redirect.domains.txt
+Prod_Infosec_Redirect: URLs	https://proxyconsole.aetna.com/prod/PROD_infosec_redirect.urls.txt
+Prod_InnovH365: Domains	https://proxyconsole.aetna.com/prod/Prod_InnovH365.domains.txt
+Prod_Lync_Migration: Domains	https://proxyconsole.aetna.com/prod/Prod_Lync_Migration.domains.txt
+Prod_NoAVScan: Domains	https://proxyconsole.aetna.com/prod/Prod_NoAVScan.domains.txt
+Prod_NoAVScan: URLs	https://proxyconsole.aetna.com/prod/Prod_NoAVScan.urls.txt
+Prod_NoSocMedBanner: Domains	https://proxyconsole.aetna.com/prod/Prod_NoSocMedBanner.domains.txt
+Prod_NoSocMedBanner: URLs	https://proxyconsole.aetna.com/prod/Prod_NoSocMedBanner.urls.txt
+Prod_SharefileAccess: Domains	https://proxyconsole.aetna.com/prod/Prod_SharefileAccess.domains.txt
+Prod_Sharepoint_Bypass: Domains	https://proxyconsole.aetna.com/prod/Prod_Sharepoint_Bypass.domains.txt
+Prod_TenantR: Domains	https://proxyconsole.aetna.com/prod/Prod_TenantR.domains.txt
+Prod_TenantR_Portals	https://proxyconsole.aetna.com/prod/Prod_TenantR_Portals.domains.txt
+Prod_cloudStorage_coach: Domains	https://proxyconsole.aetna.com/prod/Prod_cloudStorage_coach.domains.txt
+Prod_cloudStorage_coach: URLs	https://proxyconsole.aetna.com/prod/Prod_cloudStorage_coach.urls.txt
+Prod_noCoach_uncat: Domains	https://proxyconsole.aetna.com/prod/Prod_noCoach_uncat.domains.txt
+Prod_noCoach_uncat: URLs	https://proxyconsole.aetna.com/prod/Prod_noCoach_uncat.urls.txt
+Prod_vSOC_Bypass_Auth: Domains	https://proxyconsole.aetna.com/prod/Prod_vSOC_Bypass_Auth.domains.txt
+Prod_vSOC_Bypass_Auth: URLs	https://proxyconsole.aetna.com/prod/Prod_vSOC_Bypass_Auth.urls.txt
+Prod_zzURL_WhiteList: Domains	https://proxyconsole.aetna.com/prod/PROD_zzURL_whitelist.domains.txt
+Prod_zzURL_WhiteList: URLs	https://proxyconsole.aetna.com/prod/PROD_zzURL_whitelist.urls.txt
+QAFireglass: Domains	https://proxyconsole.aetna.com/prod/QAFireglass.domains.txt
+RegexBlock	http://pxylist.aetna.com/proxy/RegexBlock.txt
+Response WhiteList: URLs	http://pxylist.aetna.com/proxy/ResponseWhiteList.urls.txt
+SCOM Devices: IPRange	http://pxylist.aetna.com/proxy/SCOMDevices.iprange.txt
+SNApps: Domains	http://pxylist.aetna.com/proxy/SNApps.domains.txt
+SOCDenyList: Domains	https://proxyconsole.aetna.com/prod/SOCDenyList.domains.txt
+SOCDenyList: URLs	https://proxyconsole.aetna.com/prod/SOCDenyList.urls.txt
+VDMZAllowList: Domains	https://proxyconsole.aetna.com/prod/VDMZAllowList.domains.txt
+VDMZAllowList: URLs	https://proxyconsole.aetna.com/prod/VDMZAllowList.urls.txt
+VDMZDenyList: Domains	https://proxyconsole.aetna.com/prod/VDMZ_DenyList.Domains.txt
+VDMZDenyList: URLs	https://proxyconsole.aetna.com/prod/VDMZ_DenyList.urls.txt
+WebSocket: Domains	https://proxyconsole.aetna.com/prod/Prod_WebSockets.domains.txt
+YouTube: Domains	http://pxylist.aetna.com/proxy/YouTube.domains.txt
+vSOC: IPRange	http://pxylist.aetna.com/proxy/vSOC.iprange.txt
