@@ -1,0 +1,9 @@
+MacAfee transition to Palo Alto Firewall - WIP ​
+Current Gaps: Technology stack lacks standardization across merged entities​
+Inconsistent ability to inspect outbound encrypted traffic between LOB​
+Inability to enforce tenant restrictions ​
+Cisco umbrella (DNS Filtering) only on PBM/Retail legacy DCs​
+limited visibility for event triggers in DLP blocks​
+no ability to implement complex rule logic to fine tune policies with basic Palo DLP​
+limited filetype scope available for DLP inspection​
+ 
