@@ -1,0 +1,52 @@
+State,Object_Name,Original_Source_Regex,PAN-OS_Ready_Regex,Correction_Applied,Notes
+Alabama,US-DL-AL,\d{1,8},\b\d{1,8}\b,Added word boundaries,Pure numeric; very high FP risk
+Alaska,US-DL-AK,\d{1,7},\b\d{1,7}\b,Added word boundaries,Pure numeric; very high FP risk
+Arizona,US-DL-AZ,[\w\d]\d{8},\b[A-Za-z]?\d{8,9}\b,Tightened \w to A-Za-z; \w\d already redundant with \d,Legacy all-numeric (9 digit) or 1 letter + 8 digit
+Arkansas,US-DL-AR,\d{4,9},\b\d{4,9}\b,Added word boundaries,Pure numeric; very high FP risk
+California,US-DL-CA,\w\d{7},\b[A-Za-z]\d{7}\b,Tightened \w to A-Za-z,Low FP risk; distinctive
+Colorado,US-DL-CO,\d{9}|\w\d{3,6}|\w{2}\d{2,5},\b(\d{9}|[A-Za-z]\d{3,6}|[A-Za-z]{2}\d{2,5})\b,Tightened \w to A-Za-z,Three valid formats
+Connecticut,US-DL-CT,\d{9},\b\d{9}\b,Added word boundaries,Pure numeric; very high FP risk
+Delaware,US-DL-DE,\d{7},\b\d{1,7}\b,Source lists fixed 7; NTSI table shows 1-7 variable - flagged for verification,Pure numeric; very high FP risk
+Florida,US-DL-FL,\w\d{12},\b[A-Za-z]\d{12}\b,Tightened \w to A-Za-z,Low FP risk; encodes name Soundex + DOB
+Georgia,US-DL-GA,\d{7,9},\b\d{7,9}\b,Added word boundaries,Pure numeric; very high FP risk
+Hawaii,US-DL-HI,\w\d{8}|\d{9},\b([A-Za-z]\d{8}|\d{9})\b,Tightened \w to A-Za-z,Two valid formats
+Idaho,US-DL-ID,\w{2}\d{6}\w|\d{9},\b([A-Za-z]{2}\d{6}[A-Za-z]|\d{9})\b,Tightened \w to A-Za-z,Alpha variant distinctive; numeric variant high FP risk
+Illinois,US-DL-IL,\w\d{11,12},\b[A-Za-z]\d{11,12}\b,Tightened \w to A-Za-z,Moderate specificity
+Indiana,US-DL-IN,\w\d{9}|\d{10},\b([A-Za-z]\d{9}|\d{10})\b,Tightened \w to A-Za-z,Two valid formats
+Iowa,US-DL-IA,\d{9}|\d{3}\w{2}\d{4},\b(\d{9}|\d{3}[A-Za-z]{2}\d{4})\b,Tightened \w to A-Za-z,Two valid formats
+Kansas,US-DL-KS,\w\d\w\d\w|\w\d{8}|\d{9},\b([A-Za-z]\d[A-Za-z]\d[A-Za-z]|[A-Za-z]\d{8}|\d{9})\b,Tightened \w to A-Za-z,Multiple legacy formats; lower confidence
+Kentucky,US-DL-KY,\w\d{8,9}|\d{9},\b([A-Za-z]\d{8,9}|\d{9})\b,Tightened \w to A-Za-z,Two valid formats
+Louisiana,US-DL-LA,\d{9},\b\d{9}\b,Added word boundaries,Pure numeric; very high FP risk
+Maine,US-DL-ME,\d{7}|\d{7}\w|\d{8},\b(\d{7}|\d{7}[A-Za-z]|\d{8})\b,Tightened \w to A-Za-z,High FP risk
+Maryland,US-DL-MD,\w\d{12},\b[A-Za-z]\d{12}\b,Tightened \w to A-Za-z,Low FP risk; shared encoding w/ MI MN
+Massachusetts,US-DL-MA,\w\d{8}|\d{9},\b([A-Za-z]\d{8}|\d{9})\b,Tightened \w to A-Za-z,Two valid formats
+Michigan,US-DL-MI,\w\d{10}|\w\d{12},\b[A-Za-z]\d{10}\b|\b[A-Za-z]\d{12}\b,Tightened \w to A-Za-z,Shared encoding w/ MD MN
+Minnesota,US-DL-MN,\w\d{12},\b[A-Za-z]\d{12}\b,Tightened \w to A-Za-z,Shared encoding w/ MD MI
+Mississippi,US-DL-MS,\d{9},\b\d{9}\b,Added word boundaries,Pure numeric; very high FP risk
+Missouri,US-DL-MO,\d{3}\w\d{6}|\w\d{5,9}|\w\d{6}[rR]|\d{8}\w{2}|\d{9}\w?,\b(\d{3}[A-Za-z]\d{6}|[A-Za-z]\d{5,9}|[A-Za-z]\d{6}[Rr]|\d{8}[A-Za-z]{2}|\d{9}[A-Za-z]?)\b,Tightened \w to A-Za-z,Multiple legacy formats; lowest confidence in set
+Montana,US-DL-MT,\w\d{8}|\d{9}|\d{13,14},\b([A-Za-z]\d{8}|\d{9}|\d{13,14})\b,Tightened \w to A-Za-z,Wide variability; lower confidence for numeric variants
+Nebraska,US-DL-NE,\w\d{6,8},\b[A-Za-z]\d{6,8}\b,Tightened \w to A-Za-z,Moderate specificity
+Nevada,US-DL-NV,\d{9,10}|\d{12}|[xX]\d{8},\b(\d{9,10}|\d{12}|[Xx]\d{8})\b,None needed,X-prefix variant distinctive; others high FP risk
+New Hampshire,US-DL-NH,\d{2}\w{3}\d{5},\b\d{2}[A-Za-z]{3}\d{5}\b,Tightened \w to A-Za-z,Low FP risk; distinctive
+New Jersey,US-DL-NJ,\w\d{14},\b[A-Za-z]\d{14}\b,Tightened \w to A-Za-z,Very low FP risk; long distinctive format
+New Mexico,US-DL-NM,\d{8,9},\b\d{8,9}\b,Added word boundaries,Pure numeric; very high FP risk
+New York,US-DL-NY,\w\d{7}|\w\d{18}|\d{8,9}|\d{16}|\w{8},\b([A-Za-z]\d{7}|[A-Za-z]\d{18}|\d{8,9}|\d{16}|[A-Za-z]{8})\b,Tightened \w to A-Za-z,Wide variability across legacy formats; lower confidence
+North Carolina,US-DL-NC,\d{1,12},\b\d{1,12}\b,Added word boundaries,Pure numeric variable length; very high FP risk
+North Dakota,US-DL-ND,\w{3}\d{6}|\d{9},\b([A-Za-z]{3}\d{6}|\d{9})\b,Tightened \w to A-Za-z,Alpha variant distinctive; numeric variant high FP risk
+Ohio,US-DL-OH,\w{1}\d{4,8}|\w{2}\d{3,7}|\d{8},\b([A-Za-z]\d{4,8}|[A-Za-z]{2}\d{3,7}|\d{8})\b,Tightened \w to A-Za-z,Multiple formats; some sources cite a Luhn-style check digit not expressible in regex
+Oklahoma,US-DL-OK,\w?\d{9},\b[A-Za-z]?\d{9}\b,Tightened \w to A-Za-z,Optional single letter + 9 digits
+Oregon,US-DL-OR,\d{9},\b\d{1,9}\b,Source lists fixed 9; NTSI table shows 1-9 variable - flagged for verification,Pure numeric; very high FP risk
+Pennsylvania,US-DL-PA,\d{8},\b\d{8}\b,Added word boundaries,Pure numeric; very high FP risk
+Rhode Island,US-DL-RI,\d{7}|\w\d{6},\b(\d{7}|[A-Za-z]\d{6})\b,Tightened \w to A-Za-z,Letter variant (V+6 digits) distinctive
+South Carolina,US-DL-SC,\d{5,11},\b\d{5,11}\b,Added word boundaries,Pure numeric variable length; very high FP risk
+South Dakota,US-DL-SD,\d{6,10}|\d{12},\b(\d{6,10}|\d{12})\b,Added word boundaries,Pure numeric; very high FP risk
+Tennessee,US-DL-TN,\d{7,9},\b\d{7,9}\b,Added word boundaries,Pure numeric; very high FP risk
+Texas,US-DL-TX,\d{7,8},\b\d{7,8}\b,Added word boundaries,Pure numeric; very high FP risk
+Utah,US-DL-UT,\d{4,10},\b\d{4,10}\b,Added word boundaries,Pure numeric variable length; very high FP risk
+Vermont,US-DL-VT,\d{8}|\d{7}[aA],\b(\d{8}|\d{7}[Aa])\b,None needed,Moderate specificity
+Virginia,US-DL-VA,\w\d{8,11}|\d{9},\b([A-Za-z]\d{8,11}|\d{9})\b,Tightened \w to A-Za-z,Two valid formats
+Washington,US-DL-WA,(?=.{12}$)\w{1,7}[\w\d]+,\b[A-Za-z]{1,7}[A-Za-z0-9]{5,11}\b,Rewrote lookahead as bounded length class; \w already includes digits so [\w\d] was redundant,Very low confidence; highly irregular name-derived format prone to false negatives
+West Virginia,US-DL-WV,\d{7}|\w{1,2}\d{5,6},\b(\d{7}|[A-Za-z]{1,2}\d{5,6})\b,Tightened \w to A-Za-z,Moderate specificity
+Wisconsin,US-DL-WI,\w\d{13},\b[A-Za-z]\d{13}\b,Tightened \w to A-Za-z,Low FP risk; distinctive long format
+Wyoming,US-DL-WY,\d{9,10},\b\d{9,10}\b,Added word boundaries,Pure numeric; very high FP risk
+District of Columbia,US-DL-DC,"d{7}|d{9}" (BROKEN - missing backslashes and delimiters in source),\b(\d{7}|\d{9})\b,"Fixed broken source entry: was literal string ""d{7}|d{9}"" not a valid regex",Pure numeric; very high FP risk
