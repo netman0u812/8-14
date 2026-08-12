@@ -4,7 +4,7 @@
 # Pulls the Aetna Skyhigh proxyconsole "customer-maintained" dynamic list
 # files (Prod_BypassDLP, AllowListProd, DenyListProd, PCI_Inet_Access,
 # VDMZAllowList/DenyList, HTTPSAllowListProd, SOCDenyList, ApprovedCloudStorage,
-# DenyCloudStorage, RegexBlock, etc.) -- the content that is NOT present in the raw
+# DenyCloudStorage, RegexBlock, Bypass-SSLinspect, etc.) -- the content that is NOT present in the raw
 # Aetna-SH-Proxy-*.backup file, since those entries are subscription
 # pointers (feature="CUSTOMER_MAINTAINED") with empty <content/> rather
 # than snapshots. This script fetches the live .txt source directly.
@@ -15,7 +15,7 @@
 # authentication (see AUTH NOTES below).
 #
 # Usage:
-#   ./fetch_aetna_dynamic_lists.sh                 # priority set only (22 files)
+#   ./fetch_aetna_dynamic_lists.sh                 # priority set only (23 files)
 #   ./fetch_aetna_dynamic_lists.sh --all            # all 100 known lists
 #   ./fetch_aetna_dynamic_lists.sh --all --outdir ./mylists
 #
@@ -41,7 +41,7 @@ while [[ $# -gt 0 ]]; do
     --outdir) OUTDIR="$2"; shift 2 ;;
     -h|--help)
       echo "Usage: $0 [--all] [--outdir DIR]"
-      echo "  --all        fetch all 100 known dynamic lists instead of the 22-item priority set"
+      echo "  --all        fetch all 100 known dynamic lists instead of the 23-item priority set"
       echo "  --outdir DIR save fetched files to DIR (default: ./aetna_dynamic_lists_YYYYMMDD)"
       exit 0
       ;;
@@ -80,6 +80,7 @@ ApprovedCloudStorage_Domains	https://proxyconsole.aetna.com/prod/ApprovedCloudSt
 DenyCloudStorage_Domains	https://proxyconsole.aetna.com/prod/DenyCloudStorage.domains.txt
 DenyCloudStorage_URLs	https://proxyconsole.aetna.com/prod/DenyCloudStorage.urls.txt
 RegexBlock	http://pxylist.aetna.com/proxy/RegexBlock.txt
+Bypass_SSLinspect_Domains	http://pxylist.aetna.com/proxy/Bypass-SSLinspect.domains.txt
 '
 
 # Full 100-list manifest lives alongside this script as a TSV
@@ -136,7 +137,7 @@ if [[ "$MODE" == "all" ]]; then
     done
   fi
 else
-  echo "Fetching priority set (22 lists -- DLP scope, decrypt scope, and URL-regex blocking) ..."
+  echo "Fetching priority set (23 lists -- DLP scope, decrypt scope, URL-regex blocking, and SSL bypass) ..."
   echo "$PRIORITY_LISTS" | while IFS=$'\t' read -r name url; do
     [[ -z "$name" || -z "$url" ]] && continue
     fetch_one "$name" "$url"
