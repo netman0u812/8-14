@@ -1,0 +1,34 @@
+# SSL Decrypt Bypass Targets (Pass 1) -- Aetna SH Proxy
+# Source: Aetna-SH-Proxy-2026-07-21.backup
+# Any match against these lists exits Pass 1 immediately -- traffic is
+# never decrypted, regardless of what Pass 2 (category match) would say.
+
+## SSL Tunnel: Bypass Domains (STATIC, real content in backup, 4 entries)
+webex.com
+gotomeeting.com
+livemeeting.com
+att.com
+
+## SSL Tunnel: Bypass URLs (STATIC, real content in backup, 1 entry)
+https://agari-ep-collector*.s3.amazonaws.com
+
+## Bypass-SSLinspect: Domains (DYNAMIC -- customer-maintained, NOT yet fetched)
+## Source URL: http://pxylist.aetna.com/proxy/Bypass-SSLinspect.domains.txt
+## Content unknown until pulled -- add to collector script if needed
+
+## Windows Activation Hosts (VENDOR-MANAGED -- MCAFEE_MAINTAINED, no accessible content)
+## Fetched from McAfee's own infrastructure, not proxyconsole.aetna.com/pxylist.aetna.com --
+## content is not retrievable the same way as the customer-maintained lists above.
+
+## Windows Update Hosts (VENDOR-MANAGED -- MCAFEE_MAINTAINED, no accessible content)
+## Same limitation as Windows Activation Hosts above.
+
+# --- NOT domain-based, listed for completeness of the full 7-list Pass 1 bypass set ---
+# WebEx / Citrix HTTPS Scanning Bypass list -- matches on SOURCE IP, not domain
+# Mobile DMZ range (157.121.38.0/24, 157.121.39.0/24) -- matches on DESTINATION IP, not domain
+# SSL Tunnel: Bypass Destination IP (13-entry CIDR list) -- matches on DESTINATION IP, not 	# domain
+
+# SSL Tunnel: Bypass Categories -- matches on URL CATEGORY, not domain
+
+
+http://pxylist.aetna.com/proxy/Bypass-SSLinspect.domains.txt

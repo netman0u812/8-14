@@ -1,0 +1,59 @@
+# Aetna Cluster B (MID-PAN-PROD-01 / WIN-PAN-PROD-01) -- PAN-OS Decryption Rulebase Categories
+# Source: MID-WIN-GLR device-group, live config MID-PAN-PROD-01_20260731_060310.config
+# Both lists below result in action=decrypt (confirmed directly against the live rule) --
+# neither is a block/deny action. "DENIED-CATEGORIES" is a rule NAME, not its action.
+
+## LIST 1: LAN-TO-INTERNET-DECRYPT-ALLOWED-CATEGORIES
+## "Permit and decrypt" -- general business/legitimate categories, decrypted for standard inspection
+content-delivery-networks
+internet-communications-and-telephony
+online-storage-and-backup
+personal-sites-and-blogs
+recreation-and-hobbies
+search-engines
+social-networking
+translation
+Youtube
+
+## LIST 2: ALL-TO-INTERNET-DECRYPT-DENIED-CATEGORIES
+## Despite the rule name, action=decrypt -- these are high-risk categories decrypted
+## specifically FOR deeper inspection, not excluded from decryption
+abortion
+abused-drugs
+adult
+alcohol-and-tobacco
+browser-runtime-attack
+command-and-control
+compromised-website
+copyright-infringement
+dating
+dynamic-dns
+encrypted-dns
+extremism
+file-converter
+gambling
+games
+grayware
+hacking
+insufficient-content
+internet-communications-and-telephony
+malware
+marijuana
+not-resolved
+nudity
+online-storage-and-backup
+parked
+peer-to-peer
+phishing
+proxy-avoidance-and-anonymizers
+questionable
+ransomware
+remote-access
+scanning-activity
+sex-education
+shareware-and-freeware
+social-networking
+streaming-media
+swimsuits-and-intimate-apparel
+weapons
+web-based-email
