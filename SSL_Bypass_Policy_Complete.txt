@@ -1,0 +1,70 @@
+# SSL Bypass Policy (Pass 1) -- Aetna SH Proxy -- Complete, Annotated
+# Source: Aetna-SH-Proxy-2026-07-21.backup
+# Rule: "Tunneled Host Bypass" (id 1734) for the domain/URL/category set;
+# separate discrete rules for the IP-based lists (ids noted below).
+# Any single match across all lists below exits Pass 1 -- never decrypted.
+
+## Bypass Domains (STATIC, 4 entries)
+webex.com
+gotomeeting.com
+livemeeting.com
+att.com
+
+## Bypass URL (STATIC, 1 entry)
+# Agari Phishing Defense -- acquired by HelpSystems (2021), rebranded Fortra
+# (NOT Fortinet -- different, unrelated company; correcting that mix-up)
+https://agari-ep-collector*.s3.amazonaws.com
+
+## Bypass Categories (STATIC, 0 entries -- confirmed empty, contributes nothing today)
+
+## Bypass IP -- Mobile Gateways (rule id 1875, "SSL: Bypass Mobile DMZ", matches client/source IP)
+# Middletown CT - Aetna MDC Mobile GW
+157.121.38.0/24
+# Windsor CT - Aetna WDC Mobile GW
+157.121.39.0/24
+
+## Bypass IP -- SSL Tunnel Destination IP (rule id 1329, matches destination IP, 13 entries)
+# Unknown -- not independently verified, attribution as provided
+216.115.208.0/20
+# AMAZON-AES -- NOT INDEPENDENTLY VERIFIED, treat as provided pending confirmation
+216.219.112.0/20
+# INTERNAP-2BLK -- NOT INDEPENDENTLY VERIFIED
+66.151.158.0/24
+# INTERNAP-2BLK -- NOT INDEPENDENTLY VERIFIED
+66.151.150.160/27
+# AMAZON-02 -- NOT INDEPENDENTLY VERIFIED
+66.151.115.128/26
+# AS-INAPCDN-OCY -- NOT INDEPENDENTLY VERIFIED
+64.74.80.0/24
+# AMAZON-02 -- NOT INDEPENDENTLY VERIFIED
+202.173.24.0/21
+# Unknown
+67.217.64.0/19
+# Unknown
+78.108.112.0/20
+# Unknown
+68.64.0.0/19
+# Unknown
+206.183.100.0/22
+# Unknown
+173.199.0.0/18
+# Unknown
+69.25.206.165/32
+
+## Bypass IP -- WebEx / Citrix (destination IP, VENDOR-MANAGED, no accessible content)
+# WebEx HTTPS Scanning Bypass (rule id 1862) -> "WebEx Bypass List"
+# Citrix HTTPS Scanning Bypass (rule id 1866) -> "Citrix Bypass List"
+# Both stored under subscribed_lists/update_server/ (MCAFEE_MAINTAINED) --
+# not fetchable via proxyconsole.aetna.com/pxylist.aetna.com.
+
+## Bypass IP -- Windows Update/Activation (hostname-based, VENDOR-MANAGED, no accessible content)
+# Windows Activation Hosts
+# Windows Update Hosts (+ separate User-Agent list)
+
+# NOTE ON ASN ATTRIBUTIONS ABOVE: only the Agari/Fortra correction and the
+# Middletown/Windsor Mobile GW site attribution have been independently
+# verified against real sources in this session. The AMAZON-AES/
+# INTERNAP-2BLK/AMAZON-02/AS-INAPCDN-OCY organization labels were supplied
+# externally (not looked up by this process) -- treat as provided
+# information pending independent WHOIS/ASN confirmation, not as verified
+# fact the way the rest of this document is.
