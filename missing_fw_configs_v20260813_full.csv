@@ -1,0 +1,1144 @@
+HOSTNAME,VENDOR,MODEL,IPS,SERIALS,STATUS,SITE_CODE,DIVISION,LOCATION,FW_TYPE
+1548B01557,Checkpoint,T-110,,1548B01557,,Unknown Import,,Unknown Import,
+1644BA1265,Checkpoint,CPAP-SG3200-NGTP,,1644BA1265,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1644BA1279,Checkpoint,CPAP-SG3200-NGTP,,1644BA1279,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1644BA1283,Checkpoint,PB-10,,1644BA1283,,Unknown Import,,Unknown Import,
+1644BA1316,Checkpoint,CPAP-SG3200-NGTP,,1644BA1316,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1417,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1417,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1518,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1518,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1541,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1541,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1542,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1542,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1545,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1545,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1546,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1546,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1547,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1547,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1651BA1553,Checkpoint,CPAP-SG5200-NGTP-HPP,,1651BA1553,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1701BA0665,Checkpoint,CPAP-SG3200-NGTP,,1701BA0665,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1701BA0672,Checkpoint,PB-10,,1701BA0672,,Unknown Import,,Unknown Import,
+1701BA0675,Checkpoint,CPAP-SG3200-NGTP,,1701BA0675,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1701BA0676,Checkpoint,CPAP-SG3200-NGTP,,1701BA0676,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0422,Checkpoint,CPAP-SG3200-NGTP,,1704BA0422,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0436,Checkpoint,CPAP-SG3200-NGTP,,1704BA0436,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0442,Checkpoint,CPAP-SG3200-NGTP,,1704BA0442,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0448,Checkpoint,PB-10,,1704BA0448,,Unknown Import,,Unknown Import,
+1704BA0461,Checkpoint,PB-10,,1704BA0461,,Unknown Import,,Unknown Import,
+1704BA0471,Checkpoint,PB-10,,1704BA0471,,Unknown Import,,Unknown Import,
+1704BA0485,Checkpoint,CPAP-SG3200-NGTP,,1704BA0485,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0486,Checkpoint,CPAP-SG3200-NGTP,,1704BA0486,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0489,Checkpoint,CPAP-SG3200-NGTP,,1704BA0489,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0492,Checkpoint,CPAP-SG3200-NGTP,,1704BA0492,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0496,Checkpoint,CPAP-SG3200-NGTP,,1704BA0496,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0499,Checkpoint,PB-10,,1704BA0499,,Unknown Import,,Unknown Import,
+1704BA0502,Checkpoint,CPAP-SG3200-NGTP,,1704BA0502,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1704BA0510,Checkpoint,CPAP-SG3200-NGTP,,1704BA0510,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1707BA4333,Checkpoint,CPAP-SG3200-NGTP,,1707BA4333,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1710BA0562,Checkpoint,PL30,,1710BA0562,,Unknown Import,,Unknown Import,
+1819BA3822,Checkpoint,PL-20,,1819BA3822,,Unknown Import,,Unknown Import,
+1819BA3845,Checkpoint,PL-20,,1819BA3845,,Unknown Import,,Unknown Import,
+1819BA3924,Checkpoint,CPAP-SG5600-NGTP,,1819BA3924,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1819BA3944,Checkpoint,CPAP-SG5600-NGTP,,1819BA3944,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1819BA3945,Checkpoint,CPAP-SG5600-NGTP,,1819BA3945,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+1819BA3946,Checkpoint,CPAP-SG5600-NGTP,,1819BA3946,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+_pending_rename__RRICMCP-SEC-MPLEAST-01/admin/sec/act,Cisco,5585-SSP-60,10.18.126.251,JMX195180BN/admin,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+_pending_rename__RRICMCP-SEC-MPLEAST-01/anthem,Cisco,5585-SSP-60,,JMX195180BN/anthem,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+_pending_rename__RRICMCP-SEC-MPLEAST-01/convey,Cisco,5585-SSP-60,10.0.127.12,JMX195180BN/convey,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+_pending_rename__RRICMCP-SEC-MPLEAST-01/medcare,Cisco,5585-SSP-60,10.0.127.16,JMX195180BN/medcare,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+_pending_rename__RRICMCP-SEC-MPLEAST-01/omnicare,Cisco,5585-SSP-60,10.0.127.4,JMX195180BN/omnicare,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+_pending_rename__RRICMCP-SEC-MPLEAST-01/opera,Cisco,5585-SSP-60,10.0.127.6,JMX195180BN/opera,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+abc/abc,Cisco,5585-SSP-60,10.218.232.73,JMX1748804Y/abc,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+alere/alere,Cisco,5585-SSP-60,10.218.232.13,JMX1748804Y/alere,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+anthem/anthem,Cisco,5585-SSP-60,,JMX1952806K/ANTHEM,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+att-sec-dc-five9-fx-01,Cisco,FPR4145-NGFW-K9,10.73.24.86,JMX2522X00K,Offline,SNC,Colo,US > CA > Santa Clara > CoreSite (SNC),
+att-sec-dc-five9-fx-02,Cisco,FPR4145-NGFW-K9,10.73.24.87,JMX2522X00J,Offline,SNC,Colo,US > CA > Santa Clara > CoreSite (SNC),
+aws-use1nonprd-ingress-01,Paloalto,pa-vm,10.207.100.176,7955000716782,Offline,us-east-1,,AWS > us-east-1,CLOUD|PERIMETER
+aws-use1nonprd-ingress-03,Paloalto,pa-vm,10.207.101.116,7955000716783,Offline,us-east-1,,AWS > us-east-1,CLOUD|PERIMETER
+aws-use2nonprod-ingress-01,Paloalto,pa-vm,10.207.228.130,7955000721036,Offline,us-east-1,,AWS > us-east-1,CLOUD|PERIMETER
+aws-use2nonprod-ingress-03,Paloalto,pa-vm,10.207.229.229,7955000721085,Offline,us-east-1,,AWS > us-east-1,CLOUD|PERIMETER
+azhub000-vmss-9,Cisco,Azure,10.155.44.11,9A2EL384M83,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+azhub003-vmss-8,Cisco,Azure,10.155.172.9,9ARP3CMBULL,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+azhub012-ingress-usc-vmss-5,Cisco,Azure,10.229.134.72,9AE1ECBKM5S,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub012-ingress-usc-vmss-6,Cisco,Azure,10.229.134.74,9A3SV8TBPP8,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub013-egress-usc-vmss-0,Cisco,Azure,10.229.134.196,9A8HC6SNK8C,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub013-egress-usc-vmss-1,Cisco,Azure,10.229.134.198,9AW6EHTU7V2,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub013-egress-usc-vmss-2,Cisco,Azure,10.229.134.200,9A40KH5S6DP,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub013-egress-usc-vmss-3,Cisco,Azure,10.229.134.202,9ACEQ0DBJ42,Offline,Central US,,Azure > Central US,CLOUD|PERIMETER
+azhub014-ingress-use2-vmss-10,Cisco,Azure,10.229.6.74,9AJLFVRHPNA,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+azhub014-ingress-use2-vmss-8,Cisco,Azure,10.229.6.70,9ABD9WX9EUM,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+azhub014-ingress-use2-vmss-9,Cisco,Azure,10.229.6.72,9AR6RXJBPD0,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+azhub015-egress-use2-vmss-0,Cisco,Azure,10.229.6.196,9AGUSSUTLXA,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+azhub015-egress-use2-vmss-2,Cisco,Azure,10.229.6.200,9A78JVR6V7V,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+azhub015-egress-use2-vmss-3,Cisco,Azure,10.229.6.202,9AKB6VE76EF,Offline,East US 2,,Azure > East US 2,CLOUD|PERIMETER
+bat-mx-vdc-2,Cisco,MX84,192.168.1.15,Q2PN-5B8D-GHT5,Offline,BAT,PCW,US > OH > Barberton > 03320 - 03320B04,
+bel-mx-l1-1,Cisco,MX84,104.139.41.221,Q2PN-4G6L-SYP7,Offline,BEL,Aetna,US > NC > Belmont > NC3501 - NC3501B01,
+bff-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.75.34.30,FTX2235W0F2,Offline,BFF,PSS,US > IL > Buffalo Grove > 97748 - 97748B01,INTERNAL|PCI
+bff-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.75.34.31,FTX2235W0BN,Offline,BFF,PSS,US > IL > Buffalo Grove > 97748 - 97748B01,INTERNAL|PCI
+brh-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.39.8.34,FTX2237W093,Offline,BRH,PSS,US > AL > Birmingham > 02909 - 02909B02,INTERNAL|PCI
+brh-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.39.8.35,FTX2237W05X,Offline,BRH,PSS,US > AL > Birmingham > 02909 - 02909B02,INTERNAL|PCI
+britishtelecom/britishtelecom,Cisco,5585-SSP-60,10.218.232.45,JMX1748804Y/britishtelecom,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+btc-mx-vdc-1,Cisco,MX84,192.168.1.150,Q2PN-D975-47PX,Offline,BTC,PCW,US > MA > Braintree > 00686 - 00686B02,
+cae-fw-emrqacloud-a,Checkpoint,Other,,10.208.194.211,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-emrqacloud-b,Checkpoint,Other,,10.208.194.212,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc-pa-a:1,Paloalto,pa-vm,10.208.80.21,'	007955000709600,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc-pa-a:2,Paloalto,pa-vm,10.208.80.21,7955000709600,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc-pa-b:1,Paloalto,pa-vm,10.208.80.22,'	007955000709601,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc-pa-b:2,Paloalto,pa-vm,10.208.80.22,7955000709601,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc1a-a,Checkpoint,Other,,10.208.83.11,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-prodsvc1a-b,Checkpoint,Other,,10.208.83.12,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc-pa-a:1,Paloalto,pa-vm,10.208.213.110,7955000659140,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc-pa-b:1,Paloalto,pa-vm,10.208.213.76,7955000656863,Offline,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1c-a,Checkpoint,Other,,10.208.211.11,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1c-b,Checkpoint,Other,,10.208.211.12,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1e-a,Checkpoint,Other,,10.208.211.71,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1e-b,Checkpoint,Other,,10.208.211.72,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1g-a,Checkpoint,Open server,,10.208.211.155,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc1g-b,Checkpoint,Open server,,10.208.211.159,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc2z-a,Checkpoint,Open server,,10.208.211.34,,East US,,Azure > East US,CLOUD|PERIMETER
+cae-fw-qasvc2z-b,Checkpoint,Open server,,10.208.211.56,,East US,,Azure > East US,CLOUD|PERIMETER
+CBL-SEC-DCLab-01,Cisco,2130,10.51.170.139,JAD262407W4,Offline,CBL,CVS,US > RI > Cumberland > 99972 - 99972B01,LAB
+CBN-SEC-T1B-APS-01/pri/stby,Cisco,5555,10.26.193.6,FTX2333W0AA,Offline,CBN,CVS,US > RI > Cumberland > 99976 - 99976B01,INTERNAL
+CBN-SEC-T1B-APS-01/sec/act,Cisco,5555,10.26.193.5,FTX2333W0AC,Offline,CBN,CVS,US > RI > Cumberland > 99976 - 99976B01,INTERNAL
+cli-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.216.34,FTX2237W05N,Offline,CLI,PSS,US > SC > Columbia > 02923 - 02923B03,INTERNAL|PCI
+cli-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.216.35,FTX2237W08X,Offline,CLI,PSS,US > SC > Columbia > 02923 - 02923B03,INTERNAL|PCI
+cmc-fw-hubprodglr-1/vsys1,Paloalto,pa-vm,10.159.3.4,'	007957000676160,Online,Central US,HCB,Azure > Central US,CLOUD|PERIMETER
+cmc-fw-hubprodglr-2/vsys1,Paloalto,pa-vm,10.159.3.5,'	007957000676170,Online,Central US,HCB,Azure > Central US,CLOUD|PERIMETER
+cmc-fw-hubprodglr-a,Checkpoint,Other,,10.159.5.5,,Central US,,Azure > Central US,CLOUD|PERIMETER
+cmc-fw-hubprodglr-b,Checkpoint,Other,,10.159.5.6,,Central US,,Azure > Central US,CLOUD|PERIMETER
+cme-fw-hubnonprod-a,Checkpoint,Other,,10.159.69.5,,East US,,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubnonprod-b,Checkpoint,Other,,10.159.69.6,,East US,,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-1/vsys1,Paloalto,pa-vm,10.159.101.100,'	007957000610949,Online,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-2/vsys1,Paloalto,pa-vm,10.159.101.101,'	007957000612041,Online,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-3/vsys1,Paloalto,pa-vm,10.159.101.102,'	007957000643652,Online,East US,,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-4/vsys1,Paloalto,pa-vm,10.159.101.103,'	007957000643653,Online,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-a,Checkpoint,Other,,10.159.101.5,,East US,,Azure > East US,CLOUD|PERIMETER
+cme-fw-hubprodglr-b,Checkpoint,Other,,10.159.101.6,,East US,,Azure > East US,CLOUD|PERIMETER
+cme-fw-nonprodglr-1/vsys1,Paloalto,pa-vm,10.159.69.101,'	007957000521754,Online,East US,HCB,Azure > East US,CLOUD|PERIMETER
+cme-fw-nonprodglr-2/vsys1,Paloalto,pa-vm,10.159.69.102,'	007957000655240,Online,East US,HCB,Azure > East US,CLOUD|PERIMETER
+concentrix/concentrix,Cisco,5585-SSP-60,,JMX1748804Y/Concentrix|JMX1952806K/CONCENTRIX,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+conduent/conduent,Cisco,5585-SSP-60,10.218.232.70,JMX1748804X/conduent,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+continuum/continuum,Cisco,5585-SSP-60,10.0.127.37,JMX1952806K/CONTINUUM,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+convey/convey,Cisco,5585-SSP-60,,JMX1952806K/CONVEY,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+ConveyNations/ConveyNations,Cisco,5585-SSP-60,10.218.232.27,JMX1748804Y/ConveyNations,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+CRA-SEC-M1A-SEMA-02,Cisco,2130,10.30.86.150,JAD262204QG,Offline,CRA,PSS,US > PR > Carolina > 08899 - 08899B05,INTERNAL|PCI
+eda-sec-m1a-mat-01-fo,Cisco,ASA5555-K9,10.37.255.11,FTX2150W0KU,Offline,Unknown Import,PSS,Unknown Import,INTERNAL
+egc-use4-ztna-nonprod-02,Cisco,FTD-GCP,10.143.67.99,9A3F2UN2RE5,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-use4-ztna-nonprod-03,Cisco,FTD-GCP,10.143.67.100,9ABBN2F5AJ1,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-use4-ztna-nonprod-04,Cisco,FTD-GCP,10.143.67.101,9AX5P6G1HJE,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-use4-ztna-nonprod-05,Cisco,FTD-GCP,10.143.67.102,9ARC0P9K1FA,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-use4-ztna-nonprod-06,Cisco,FTD-GCP,10.143.67.103,9AGNNT8PCQT,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-01,Cisco,FTD-GCP,10.143.67.168,9AK07F0NP41,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-02,Cisco,FTD-GCP,10.143.67.169,9A0FJE7PG1X,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-03,Cisco,FTD-GCP,10.143.67.170,9AT89BQ8RKB,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-04,Cisco,FTD-GCP,10.143.67.171,9AA5L7C6QHU,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-05,Cisco,FTD-GCP,10.143.67.172,9AJDA11PTHC,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egc-usw2-ztna-nonprod-06,Cisco,FTD-GCP,10.143.67.167,9A5Q1PP2SJ3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4nonprd-ingress-2-0-vm-01,Paloalto,pa-vm,10.243.0.34,7958000708758,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4nonprd-ingress-2-0-vm-03,Paloalto,pa-vm,10.243.0.36,7958000708755,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4nonprd-ingress-2-0-vm-04,Paloalto,pa-vm,10.243.0.37,7958000708756,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4nonprd2-0-vm-01,Paloalto,pa-vm,10.243.1.185,7900000667352,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4nonprd2-0-vm-03,Paloalto,pa-vm,10.243.1.187,7900000667349,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4nonprd2-0-vm-04,Paloalto,pa-vm,10.243.1.182,7900000667350,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER
+egcuse4palopoc-01-vm,Paloalto,pa-vm,10.143.50.23,7958000645944,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER|POC
+egcuse4palopoc-02-vm,Paloalto,pa-vm,10.143.50.12,7958000645945,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER|POC
+egcuse4palopoc-03-vm,Paloalto,pa-vm,10.143.50.26,7958000652054,Offline,us-east4,,GCP > us-east4,CLOUD|PERIMETER|POC
+egcuse4sechub2-0nonprd-ftd-01-vm,Cisco,Firepower Threat Defense for GCP,10.243.1.180,9AW2M7KV602,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechub2-0nonprd-ftd-02-vm,Cisco,Firepower Threat Defense for GCP,10.243.1.181,9A5J6WXMPX1,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechub2-0nonprd-ftd-03-vm,Cisco,Firepower Threat Defense for GCP,10.243.1.179,9A6U3J0DV6F,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechub2-0nonprd-ftd-04-vm,Cisco,Firepower Threat Defense for GCP,10.243.1.178,9A1A0WN5BUM,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubnonprodftd-05-vm,Cisco,FTD-GCP,10.236.246.12,9A863VSMW4V,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubnonprodftd-06-vm,Cisco,FTD-GCP,10.236.246.13,9A0P2P41SKU,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubnonprodftd-07-vm,Cisco,FTD-GCP,10.236.246.5,9A4FMKPJWKT,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubnonprodftd-08-vm,Cisco,FTD-GCP,10.236.246.11,9A8PM3W9HL4,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubprodftd-05-vm,Cisco,FTD-GCP,10.236.251.246,9A4QUMMUCW7,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubprodftd-06-vm,Cisco,FTD-GCP,10.236.251.247,9APPSNE91VA,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubprodftd-07-vm,Cisco,FTD-GCP,10.236.251.245,9AAR63AK65R,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubprodftd-08-vm,Cisco,FTD-GCP,10.236.251.244,9AVVM28DFFH,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcuse4sechubprodftd-vpn-vm,Cisco,Firepower Threat Defense for GCP,10.236.251.248,9ACPFNQJ5HJ,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER|VPN
+egcuse4ztnapoc,Cisco,Firepower Threat Defense for GCP,10.158.20.12,9A3AG8E9G48,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER|POC
+egcusw2nonprd-ingress-2-0-vm-01,Paloalto,pa-vm,10.243.32.34,7958000710049,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2nonprd-ingress-2-0-vm-03,Paloalto,pa-vm,10.243.32.36,7958000710058,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2nonprd-ingress-2-0-vm-04,Paloalto,pa-vm,10.243.32.37,7958000710060,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2nonprd2-0-vm-01,Paloalto,pa-vm,10.243.33.182,7958000709529,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2nonprd2-0-vm-03,Paloalto,pa-vm,10.243.33.184,7958000709545,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2nonprd2-0-vm-04,Paloalto,pa-vm,10.243.33.185,7958000709555,Offline,us-west2,,GCP > us-west2,CLOUD|PERIMETER
+egcusw2sechubnonprodftd-05-vm,Cisco,FTD-GCP,10.236.246.49,9A143GG6JN2,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubnonprodftd-06-vm,Cisco,FTD-GCP,10.236.246.48,9A08D7XPN4W,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubnonprodftd-07-vm,Cisco,FTD-GCP,10.236.246.50,9APLFHW6EA3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubnonprodftd-08-vm,Cisco,FTD-GCP,10.236.246.47,9A71W31NT6T,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubprodftd-05-vm,Cisco,FTD-GCP,10.236.251.207,9AQQC52K2HW,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubprodftd-06-vm,Cisco,FTD-GCP,10.236.251.206,9A9CTQNRC0G,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubprodftd-07-vm,Cisco,FTD-GCP,10.236.251.204,9A2EA91VXJW,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubprodftd-08-vm,Cisco,FTD-GCP,10.236.251.205,9A5LMEWHV2J,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+egcusw2sechubprodftd-vpn-vm,Cisco,Firepower Threat Defense for GCP,10.236.251.208,9ACSUASAMB7,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER|VPN
+emdeon/emdeon,Cisco,5585-SSP-60,10.218.232.52,JMX1748804X/emdeon,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+EPCSVerizon/EPCSVerizon,Cisco,5585-SSP-60,10.218.232.18,JMX1748804X/EPCSVerizon,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+epo-fw-hgs-1:1,Cisco,Firepower 2130 Threat Defense,10.108.152.12,JAD262204RX,Offline,HGS,Aetna,US > TX > El Paso > HGS,B2B
+epo-fw-hgs-1:2,Cisco,FPR2130-NGFW-K9,10.108.152.12,JMX2622X1GN,Offline,EPO,PCW,US > IL > East Peoria > 06453 - 06453B02,B2B
+epo-fw-hgs-2:1,Cisco,Firepower 2130 Threat Defense,10.108.152.13,JAD262204SE,Offline,HGS,Aetna,US > TX > El Paso > HGS,B2B
+epo-fw-hgs-2:2,Cisco,FPR2130-NGFW-K9,10.108.152.13,JMX2622X1GJ,Offline,EPO,PCW,US > IL > East Peoria > 06453 - 06453B02,B2B
+epsfire1,Cisco,ASA5520-BUN-K9,10.106.96.11,JMX1207L0R9,Offline,HGS,Aetna,US > TX > El Paso > HGS,
+ewd-fw-pdchsdbar-f:1,Cisco,ASA5555-K9,,FGL1943707P,,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+ewd-fw-pdchsdbar-f:2,Cisco,ASA5555-K9,,FCH2126J6DC,,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+ewd-fw-pdchsdbar:1,Cisco,ASA5555-K9,,FTX2131W0CZ,,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+ewd-fw-pdchsdbar:2,Cisco,ASA5555-K9,,FCH19427EUA,,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+ewn-fw-conduent-1:1,Cisco,FPR2130-NGFW-K9,10.108.240.21,JMX2625X0U7,Offline,00432 - 00432B02,PCW,US > NJ > East Windsor > 00432 - 00432B02,
+ewn-fw-conduent-1:2,Cisco,Firepower 2130 Threat Defense,10.108.240.21,JAD2624003A,Offline,00432 - 00432B02,PCW,US > NJ > East Windsor > 00432 - 00432B02,
+ewn-fw-conduent-2:1,Cisco,Firepower 2130 Threat Defense,10.108.240.22,JAD262407Z6,Offline,00432 - 00432B02,PCW,US > NJ > East Windsor > 00432 - 00432B02,
+ewn-fw-conduent-2:2,Cisco,FPR2130-NGFW-K9,10.108.240.22,JMX2625X0WK,Offline,00432 - 00432B02,PCW,US > NJ > East Windsor > 00432 - 00432B02,
+exl-fw-equinix-a,Checkpoint,23000 Appliances,10.108.224.12,10.108.224.12,Offline,SLO,Aetna,EU > GB > LON > Equinix COLO (EXL),B2B
+exl-fw-equinix-b,Checkpoint,23000 Appliances,10.108.224.13,10.108.224.13,Offline,SLO,Aetna,EU > GB > LON > Equinix COLO (EXL),B2B
+ext-cloud/ext-cloud,Cisco,5585-SSP-60,10.0.127.20,JMX195180BN/EXT-CLOUD,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+ext-fw-equinix-a,Checkpoint,23000 Appliances,172.19.3.251,172.19.3.251,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),B2B|PERIMETER
+ext-fw-equinix-b,Checkpoint,23000 Appliances,172.19.3.252,172.19.3.252,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),B2B|PERIMETER
+EXTERNAL-CLOUD/vendor14,Cisco,5585-SSP-60,10.218.232.36,JMX1748804X/vendor14,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+exv-fw-equinix-a,Checkpoint,23000 Appliances,172.19.2.251,172.19.2.251,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),B2B
+exv-fw-equinix-b,Checkpoint,23000 Appliances,172.19.2.252,172.19.2.252,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),B2B
+FCH18457G28,Cisco,ASA5555-MB,,FCH18457G28,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FCH1944V3GS,Cisco,FS2000-K9,,FCH1944V3GS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FGL1848407M,Cisco,ASA5555-K9,,FGL1848407M,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FGL1848407Y,Cisco,ASA5555-K9,,FGL1848407Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+fiserv/fiserv,Cisco,5585-SSP-60,,JMX195180BN/FISERV,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+FJC28411QRS,Cisco,FPR-2130-NGFW-K9,,FJC28411QRS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411QSG,Cisco,FPR-2130-NGFW-K9,,FJC28411QSG,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411QWY,Cisco,FPR-2130-NGFW-K9,,FJC28411QWY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411QY9,Cisco,FPR-2130-NGFW-K9,,FJC28411QY9,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411QZ1,Cisco,FPR-2130-NGFW-K9,,FJC28411QZ1,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411R0S,Cisco,FPR-2130-NGFW-K9,,FJC28411R0S,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411R37,Cisco,FPR-2130-NGFW-K9,,FJC28411R37,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411R3Z,Cisco,FPR-2130-NGFW-K9,,FJC28411R3Z,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411R4R,Cisco,FPR-2130-NGFW-K9,,FJC28411R4R,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411R5T,Cisco,FPR-2130-NGFW-K9,,FJC28411R5T,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411RV7,Cisco,FPR-2130-NGFW-K9,,FJC28411RV7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411S3Q,Cisco,FPR-2130-NGFW-K9,,FJC28411S3Q,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411S53,Cisco,FPR-2130-NGFW-K9,,FJC28411S53,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411S5S,Cisco,FPR-2130-NGFW-K9,,FJC28411S5S,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411S7J,Cisco,FPR-2130-NGFW-K9,,FJC28411S7J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411TE4,Cisco,FPR-2130-NGFW-K9,,FJC28411TE4,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411TUZ,Cisco,FPR-2130-NGFW-K9,,FJC28411TUZ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FJC28411TY7,Cisco,FPR-2130-NGFW-K9,,FJC28411TY7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FLM281702QB,Cisco,FPR9K-SM-56,,FLM281702QB,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+frf-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.155.16,FTX2223W0N3,Offline,FRF,PSS,US > NJ > Fairfield > 01701 - 01701B01,INTERNAL|PCI
+frf-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.155.17,FTX2235W0CE,Offline,FRF,PSS,US > NJ > Fairfield > 01701 - 01701B01,INTERNAL|PCI
+FTX2047Y11J,Cisco,ASA5555-K9,,FTX2047Y11J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2146W07K,Cisco,ASA5555-K9,,FTX2146W07K,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0A3,Cisco,ASA5555-K9,,FTX2147W0A3,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0A7,Cisco,ASA5555-K9,,FTX2147W0A7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0AH,Cisco,ASA5555-K9,,FTX2147W0AH,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0AK,Cisco,ASA5555-K9,,FTX2147W0AK,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0AT,Cisco,ASA5555-K9,,FTX2147W0AT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2147W0G3,Cisco,ASA5555-K9,,FTX2147W0G3,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2148W0K0,Cisco,ASA5555-K9,,FTX2148W0K0,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2150W0LE,Cisco,ASA5555-K9,,FTX2150W0LE,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2150W0LG,Cisco,ASA5555-K9,,FTX2150W0LG,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2150W0LY,Cisco,ASA5555-K9,,FTX2150W0LY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2150W0M4,Cisco,ASA5555-K9,,FTX2150W0M4,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2150W0MS,Cisco,ASA5555-K9,,FTX2150W0MS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2235W0S7,Cisco,ASA5555-K9,,FTX2235W0S7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2235W0T3,Cisco,ASA5555-K9,,FTX2235W0T3,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2241W010,Cisco,ASA5555-K9,,FTX2241W010,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+FTX2241W016,Cisco,ASA5555-K9,,FTX2241W016,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+geneva/geneva,Cisco,5585-SSP-60,10.0.127.35,JMX1952806K/GENEVA,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+grandview/grandview,Cisco,5585-SSP-60,10.0.127.30,JMX1952806K/GRANDVIEW,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+hbg-fw-stofpenn-a,Checkpoint,3000 Appliances,10.108.80.14,1704BA0503,Offline,Unknown Import,,Unknown Import,B2B
+hbg-fw-stofpenn-b,Checkpoint,3000 Appliances,10.108.80.15,1701BA0673,Offline,Unknown Import,HCB,Unknown Import,B2B
+heartland/heartland,Cisco,5585-SSP-60,10.218.232.34,JMX1748804X/heartland,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+hfd-mx-fitnesscenter-1:1,Cisco,MX84,10.1.10.122,Q2PN-F5MP-E5KQ,Offline,HFD,Aetna,US > CT > Hartford > CT99010 - CT99010B01,
+hlb-fw-labdmz-1.aetna.com,Cisco,2130,10.80.92.155,JAD232913XK,Online,HFD,Aetna,US > CT > Hartford > CT1501 - CT1501B01,DMZ|LAB
+hlb-fw-labdmz-2.aetna.com,Cisco,2130,10.80.92.156,JAD232913XM,Online,HFD,Aetna,US > CT > Hartford > CT1501 - CT1501B01,DMZ|LAB
+HOL-SEC-M1A-PCI-01/pri/stby,Cisco,5555,10.38.64.237,FTX203610LX,Offline,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+HOL-SEC-M1A-PCI-01/sec/act,Cisco,5555,10.38.64.236,FTX203610LV,Offline,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+HOL-SEC-M1A-PCI-01/vsys1,Paloalto,pa-1420,10.38.67.70,'	026909003226,Online,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+HOL-SEC-M1A-PCI-02/vsys1,Paloalto,pa-1420,10.38.67.71,'	026909003229,Online,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+hol-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.68.31,FTX2237W09A,Offline,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+hol-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.68.30,FTX2236W0LW,Offline,HOL,PSS,US > HI > Honolulu > 10312 - 10312B01,INTERNAL|PCI
+hon-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.192.23,FTX2237W05S,Offline,Unknown Import,PSS,Unknown Import,INTERNAL|PCI
+hon-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.192.22,FTX2237W05J,Offline,Unknown Import,PSS,Unknown Import,INTERNAL|PCI
+ini-sec-m1a-wms-01-a,Cisco,FPR2130,,JMX2625X0XY,,Unknown Import,,Unknown Import,INTERNAL
+intelepeer.caremark.com,Cisco,SM-56,10.126.5.18,FLM260307HBVWY,Online,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),INTERNAL
+JAD175103AQ,Cisco,ASA5585-S10F10-K9,,JAD175103AQ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX172880GA,Cisco,ASA5585-S10F10-K9,,JMX172880GA,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX172880GB,Cisco,ASA5585-S10F10-K9,,JMX172880GB,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX172880GD,Cisco,ASA5585-S10F10-K9,,JMX172880GD,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX172880GE,Cisco,ASA5585-S10F10-K9,,JMX172880GE,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX183080C,Cisco,ASA5585-S10F10-K9,,JMX183080C,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX19148055,Cisco,ASA5585-S10F10-K9,,JMX19148055,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX1914805R,Cisco,ASA5585-S10F10-K9,,JMX1914805R,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX191880DJ,Cisco,AMP7150-K9,,JMX191880DJ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX193780KL,Cisco,ASA5585-S10F10-K9,,JMX193780KL,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX193780KP,Cisco,ASA5585-S10F10-K9,,JMX193780KP,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX193980DN,Cisco,ASA5585-S10F10-K9,,JMX193980DN,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX193980E1,Cisco,ASA5585-S10F10-K9,,JMX193980E1,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX193980E5,Cisco,ASA5585-S10F10-K9,,JMX193980E5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX1951809D,Cisco,ASA5585-S10F10-K9,,JMX1951809D,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX1951809J,Cisco,ASA5585-S10F10-K9,,JMX1951809J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX1951809M,Cisco,ASA5585-S10F10-K9,,JMX1951809M,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX1951809P,Cisco,ASA5585-S10F10-K9,,JMX1951809P,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2011805A,Cisco,ASA5585-S10F10-K9,,JMX2011805A,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2030L078,Cisco,ASA5585-S10F10-K9,,JMX2030L078,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2030L0A1,Cisco,ASA5585-S10F10-K9,,JMX2030L0A1,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2035L0CB,Cisco,ASA5585-S10F10-K9,,JMX2035L0CB,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2049L02J,Cisco,ASA5585-S10F10-K9,,JMX2049L02J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2146100D,Cisco,ASA5585-S10F10-K9,,JMX2146100D,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2146100E,Cisco,ASA5585-S10F10-K9,,JMX2146100E,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2148102X,Cisco,ASA5585-S10F10-K9,,JMX2148102X,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2149100Y,Cisco,ASA5585-S10F10-K9,,JMX2149100Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX21491011,Cisco,ASA5585-S10F10-K9,,JMX21491011,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX21491013,Cisco,ASA5585-S10F10-K9,,JMX21491013,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2149101E,Cisco,ASA5585-S10F10-K9,,JMX2149101E,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2216G02Z,Cisco,ASA5516-FPWR-K9,,JMX2216G02Z,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2216G03V,Cisco,ASA5516-FPWR-K9,,JMX2216G03V,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2240G18W,Cisco,ASA5516-FPWR-K9,,JMX2240G18W,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2247L02K,Cisco,FPR4150-ASA-K9,,JMX2247L02K,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2305L02K,Cisco,FPR4150-ASA-K9,,JMX2305L02K,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2342Z02S,Cisco,FPR-2110,,JMX2342Z02S,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2342Z02W,Cisco,FPR-2110,,JMX2342Z02W,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2346X0E5,Cisco,ASA5516-FPWR-K9,,JMX2346X0E5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2402L00Y,Cisco,FPR4125-ASA-K9,,JMX2402L00Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2431X07Q,Cisco,ASA5516-FPWR-K9,,JMX2431X07Q,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2431X07V,Cisco,ASA5516-FPWR-K9,,JMX2431X07V,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2431X07W,Cisco,ASA5516-FPWR-K9,,JMX2431X07W,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2431X080,Cisco,ASA5516-FPWR-K9,,JMX2431X080,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2449L01M,Cisco,FPR4145-NGFW-K9,,JMX2449L01M,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X19D,Cisco,FPR4115-NGFW-K9,,JMX2515X19D,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X1QH,Cisco,FPR4115-NGFW-K9,,JMX2515X1QH,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X1QU,Cisco,FPR4115-NGFW-K9,,JMX2515X1QU,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X1QV,Cisco,FPR4115-NGFW-K9,,JMX2515X1QV,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X1RT,Cisco,FPR4115-NGFW-K9,,JMX2515X1RT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2515X1T1,Cisco,FPR4115-NGFW-K9,,JMX2515X1T1,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2532X0CC,Cisco,FPR4125-NGFW-K9,,JMX2532X0CC,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2532X0CP,Cisco,FPR4125-NGFW-K9,,JMX2532X0CP,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2543X17J,Cisco,FPR4125-ASA-K9,,JMX2543X17J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2622X1J4,Cisco,FPR-2130-NGFW-K9,,JMX2622X1J4,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2625X0FB,Cisco,FPR4125-ASA-K9,,JMX2625X0FB,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2625X0FE,Cisco,FPR4125-ASA-K9,,JMX2625X0FE,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2721X15Y,Cisco,FPR-2130-NGFW-K9,,JMX2721X15Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2721X15Z,Cisco,FPR-2130-NGFW-K9,,JMX2721X15Z,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2721X160,Cisco,FPR4145-NGFW-K9,,JMX2721X160,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+JMX2732X06K,Cisco,FPR4125-ASA-K9,,JMX2732X06K,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+KNV-SEC-M1A-WMS-01/pri/act,Cisco,5516,10.193.33.10,JMX2144G1M7,Online,KNV,PCW,US > TN > Knoxville > 86012 - 86012B05,INTERNAL
+KNV-SEC-M1A-WMS-01/sec/stby,Cisco,5516,10.193.33.9,JMX2144G1ER,Online,KNV,PCW,US > TN > Knoxville > 86012 - 86012B05,INTERNAL
+knx-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.34.12.30,FTX2235W0CL,Offline,KNX,PCW,US > IN > Knox > 06538 - 06538B03,INTERNAL|PCI
+knx-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.34.12.31,FTX2235W0FA,Offline,KNX,PCW,US > IN > Knox > 06538 - 06538B03,INTERNAL|PCI
+lab_az2_ftd_egress_2,Cisco,Firepower Threat Defense for AWS,10.173.13.21,10.173.13.21,Offline,us-east-1,,AWS > us-east-1,LAB
+lab_az2_ftd_ingress_1,Cisco,Firepower Threat Defense for AWS,10.173.11.53,10.173.11.53,Offline,us-east-1,,AWS > us-east-1,LAB
+lab_az2_ftd_peering_1,Cisco,Firepower Threat Defense for AWS,10.173.15.20,10.173.15.20,Offline,us-east-1,,AWS > us-east-1,LAB
+ldn-sec-m1a-wms-02:1,Cisco,FPR2130-NGFW-K9,10.193.65.22,JMX2622X1DY,Offline,LDN,PCW,US > TN > Loudon > 86012 - 86012B06,INTERNAL
+lee-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.120.1.32,FTX2235W0TB,Offline,16731 - 16731B01,PCW,US > MO > Lees Summit > 16731 - 16731B01,INTERNAL|PCI
+lee-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.120.1.33,FTX2235W0ST,Offline,16731 - 16731B01,PCW,US > MO > Lees Summit > 16731 - 16731B01,INTERNAL|PCI
+lgs1501-01b-0104-ext-pa-fw01/vsys1,Paloalto,pa-5445,10.20.10.53,'	026101000713,Online,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),PERIMETER
+lgs1501-01b-0105-3rd-pa-fw01/vsys1,Paloalto,pa-5445,10.20.10.43,'	026101000706,Online,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),
+lgs1501-01b-0105-ext-dmz-pa-fw01/vsys1,Paloalto,pa-5445,10.20.10.35,'	026101000707,Online,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),DMZ|PERIMETER
+lgs1501-01b-0105-ext-dmz-pa-fw02/vsys1,Paloalto,pa-5445,10.20.10.36,'	026109000816,Online,CatchAllUnknown,,CatchAllUnknown,DMZ|PERIMETER
+lgs1502-10c-0104-ext-pa-fw02/vsys1,Paloalto,pa-5445,10.20.10.54,'	026101000709,Online,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),PERIMETER
+lgs1502-10c-0105-3rd-pa-fw02/vsys1,Paloalto,pa-5445,10.20.10.44,'	026101000700,Online,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),
+lgs1502-10c-0105-ext-dmz-pa-fw02/vsys1,Paloalto,pa-5445,10.20.10.36,'	026101000712,Offline,LGS,Colo,US > NV > Las Vegas > Switch COLO NAP-15 (LGS),DMZ|PERIMETER
+lnx-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.11.31,FTX2236W0LY,Offline,LNX,PSS,US > KS > Lenexa > 01702 - 01702B01,INTERNAL|PCI
+lnx-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.11.30,FTX2236W0LU,Offline,LNX,PSS,US > KS > Lenexa > 01702 - 01702B01,INTERNAL|PCI
+LR2018010013,Checkpoint,PH-20,,LR2018010013,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+LR20180100131,Checkpoint,PH-20,,LR20180100131,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+LR2018010013141,Checkpoint,PH-20,,LR2018010013141,,Unknown Import,,Unknown Import,
+LR2018010013251,Checkpoint,PH-20,,LR2018010013251,,Unknown Import,,Unknown Import,
+LR20180100134,Checkpoint,PH-20,,LR20180100134,,Unknown Import,,Unknown Import,
+LR20180100137,Checkpoint,PH-20,,LR20180100137,,Unknown Import,,Unknown Import,
+LR201807002190,Checkpoint,PH-30,,LR201807002190,,Unknown Import,,Unknown Import,
+LR201807002191,Checkpoint,PH-30,,LR201807002191,,Unknown Import,,Unknown Import,
+lvg-sec-m1a-pci-01-a,Cisco,ASA5555-K9,10.182.27.222,FTX2241W0MC,Offline,LVG,PSS,US > NV > Las Vegas > 48639 - 48639B01,INTERNAL|PCI
+lvg-sec-m1a-pci-01-s,Cisco,ASA5555-K9,10.182.27.221,FTX2241W0ME,Offline,LVG,PSS,US > NV > Las Vegas > 48639 - 48639B01,INTERNAL|PCI
+lvg-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.182.0.150,FTX2302W065,Offline,LVG,PSS,US > NV > Las Vegas > 48639 - 48639B01,INTERNAL|PCI
+lvg-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.182.0.151,FTX2302W063,Offline,LVG,PSS,US > NV > Las Vegas > 48639 - 48639B01,INTERNAL|PCI
+medcare/medcare,Cisco,5585-SSP-60,,JMX195180BN/MEDCARE,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+medhok/medhok,Cisco,5585-SSP-60,10.218.232.31,JMX1748804Y/medhok,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+medhokaws/medhok,Cisco,5585-SSP-60,10.0.127.41,JMX1952806K/MEDHOK,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,CLOUD|PERIMETER
+MedHokAWS/MedHokAWS,Cisco,5585-SSP-60,,JMX1748804Y/MedHokAWS,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CLOUD|PERIMETER
+merwin/merwin,Cisco,5585-SSP-60,10.0.127.15,JMX1952806K/MERWIN,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+mid-fw-clouddmz-pa-a/vsys1,Paloalto,pa-3420,10.54.139.44,'	024209003055,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-clouddmz-pa-b/vsys1,Paloalto,pa-3420,10.54.139.58,'	024209003093,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-cvs-a:1,Checkpoint,23000 Appliances,206.213.247.21,206.213.247.21,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-cvs-a:2,Checkpoint,PD-20-00,206.213.247.21,LR201710013514,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-cvs-b:1,Checkpoint,23000 Appliances,206.213.247.22,206.213.247.22,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-cvs-b:2,Checkpoint,PD-20-00,206.213.247.22,LR201710013516,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-cvs-pa-a/vsys1,Paloalto,pa-3440,10.54.140.201,'	024409001922,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-cvs-pa-b/vsys1,Paloalto,pa-3440,10.54.140.202,'	024409001942,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,CC
+mid-fw-daas.aetna.com,Cisco,ASA5525-K9,167.69.234.32,FTX191110EH,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+mid-fw-daas.aetna.com-fo,Cisco,ASA5525-K9,167.69.234.33,FTX191110E7,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+mid-fw-dmz-pa-a/vsys1,Paloalto,pa-3440,10.54.139.55,'	024409001957,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-dmz-pa-b/vsys1,Paloalto,pa-3440,10.54.139.56,'	024409001960,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-edmz-ftd-1,Cisco,Firepower 4145 Threat Defense,172.19.104.138,172.19.104.138,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-edmz-ftd-2,Cisco,Firepower 4145 Threat Defense,172.19.104.139,172.19.104.139,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-edmz-pa-a/vsys1,Paloalto,pa-5450,10.54.138.24,'	019909001491,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-edmz-pa-b/vsys1,Paloalto,pa-5450,10.54.138.25,'	019909001509,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-edmz.aetna.com:1,Cisco,ASA5555-K9,206.213.247.16,FGL183740D4,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-edmz.aetna.com:2,Cisco,ASA5555-K9,206.213.247.17,FGL183740CZ,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B|DMZ
+mid-fw-equinix-a:1,Checkpoint,15000 Appliances,157.121.96.11,157.121.96.11,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-a:2,Checkpoint,PH-30,157.121.96.11,LR201603007367,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-b:1,Checkpoint,15000 Appliances,157.121.96.12,157.121.96.12,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-b:2,Checkpoint,PH-30,157.121.96.12,LR201603007247,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-chassis-1:1,Cisco,FPR-C9300-AC,172.19.104.37,JMX2729X0X6,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-chassis-1:2,Cisco,FX-OS,172.19.104.37,JAD27280A05,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-chassis-2:1,Cisco,FX-OS,172.19.104.38,JAD272809ZX,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-equinix-chassis-2:2,Cisco,FPR-C9300-AC,172.19.104.38,JMX2729X0RL,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,B2B
+mid-fw-glr-pa-a/vsys1,Paloalto,pa-5450,10.54.138.213,'	019909000917,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-glr-pa-b/vsys1,Paloalto,pa-5450,10.54.138.214,'	019909000934,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-inetdmz-1.aetna.com,Cisco,FPR-C9300-AC,172.19.104.35,JMX2727X02Z,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-inetdmz-1:1,Cisco,FX-OS,172.19.104.35,JAD272606JL,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-inetdmz-2.aetna.com,Cisco,FPR-C9300-AC,172.19.104.36,JMX2727X0C3,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-inetdmz-2:2,Cisco,FX-OS,172.19.104.36,JAD27220EBT,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-ironman-1:1,Cisco,Firepower 2130 Threat Defense,172.19.104.19,JAD262204PR,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-ironman-1:2,Cisco,ASA on FTD,172.19.104.19,JMX2622X1DW,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-ironman-2:1,Cisco,ASA on FTD,172.19.104.20,JMX2717X3LH,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-ironman-2:2,Cisco,Firepower 2130 Threat Defense,172.19.104.20,JAD2717025C,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-officeext-pa-a/vsys1,Paloalto,pa-1420,10.54.141.213,'	026909004790,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-officeext-pa-b/vsys1,Paloalto,pa-1420,10.54.141.214,'	026909004824,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-pciprod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.27,JMX2716X1ZQ,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciprod-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.28,JMX2716X201,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.25,JMX2716X1ZS,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-1:1,Cisco,FX-OS,172.19.104.25,JAD271506XR,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-1:2,Cisco,Firepower 4145 Threat Defense,172.19.104.145,FLM27060AE9IUE,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-2:1,Cisco,Firepower 4145 Threat Defense,172.19.104.146,FLM2347059AC0L,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-2:2,Cisco,FX-OS,172.19.104.26,JAD24030CPS,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-2:3,Cisco,FPR4145-NGFW-K9,172.19.104.26,JMX2410L03C,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-pciqa-web-1,Cisco,Firepower 4145 Threat Defense,172.19.104.147,FLM27060AE9719,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PCI
+mid-fw-perfdmz-1:1,Cisco,FPR4145-NGFW-K9,172.19.104.13,JMX2631X06Y,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-perfdmz-1:2,Cisco,Firepower 4145 Threat Defense,172.19.104.141,FLM2628VBM9,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-perfdmz-1:3,Cisco,FX-OS,172.19.104.13,JAD2628048V,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-perfdmz-2:1,Cisco,Firepower 4145 Threat Defense,172.19.104.142,FLM263700TD,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-perfdmz-2:2,Cisco,FX-OS,172.19.104.14,JAD2643054C,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-perfdmz-2:3,Cisco,FPR4145-NGFW-K9,172.19.104.14,JMX2644X0DB,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-pod-1,Cisco,FX-OS,172.19.104.31,JAD271506XZ,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-pod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.31,JMX2716X24U,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-proxy-1:1,Cisco,FPR4145-ASA-K9,172.19.104.29,JMX2716X28Q,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-proxy-1:2,Cisco,FX-OS,172.19.104.29,JAD271506X4,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-proxy-1:3,Cisco,Firepower 4145 Threat Defense,172.19.104.155,FLM27060ADL,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-proxy-2:1,Cisco,FPR4145-ASA-K9,172.19.104.30,JMX2633X001,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-proxy-2:2,Cisco,Firepower 4145 Threat Defense,172.19.104.156,FLM2628VNPM,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-proxy-2:3,Cisco,FX-OS,172.19.104.30,JAD263107HV,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,PERIMETER
+mid-fw-qadmz-pa-a/vsys1,Paloalto,pa-3420,10.54.138.203,'	024209002989,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-qadmz-pa-b/vsys1,Paloalto,pa-3420,10.54.138.206,'	024209003038,Online,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-services-a:1,Checkpoint,23000 Appliances,206.213.199.112,206.213.199.112,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-services-a:2,Checkpoint,PD-20-00,206.213.199.112,LR201710010690,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-services-b:1,Checkpoint,23000 Appliances,206.213.199.113,206.213.199.113,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-services-b:2,Checkpoint,PD-20-00,206.213.199.113,LR201710010684,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-sipprod-1,Cisco,FX-OS,172.19.104.21,JAD263009UC,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-sipprod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.21,JMX2633X004,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-sipprod-2,Cisco,FX-OS,172.19.104.22,JAD263205KL,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-sipprod-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.22,JMX2633X000,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-vdmz-1,Cisco,FX-OS,172.19.104.33,JAD27160TGH,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-vdmz-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.33,JMX2717X32G,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-vdmz-2,Cisco,FX-OS,172.19.104.34,JAD271506UQ,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-vdmz-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.19.104.34,JMX2717X32A,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,DMZ
+mid-fw-viznet-1:1,Cisco,ASA on FTD,172.19.104.17,JMX2642X118,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-viznet-1:2,Cisco,Firepower 2130 Threat Defense,172.19.104.18,FJZ28221QBQ,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-viznet-2:1,Cisco,Firepower 2130 Threat Defense,172.19.104.17,JAD264104FK,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-viznet-2:2,Cisco,ASA on FTD,172.19.104.18,FJC28231REB,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mid-fw-vpn1.aetna.com,Cisco,ASA5555-K9,206.213.247.18,FGL1750401K,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,VPN
+mid-fw-vpn1.aetna.com-fo,Cisco,ASA5555-K9,206.213.247.19,FGL1749411F,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,VPN
+mid-fw-vpn2.aetna.com:1,Cisco,ASA5555-K9,206.213.247.51,FGL1924708H,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,VPN
+mid-fw-vpn2.aetna.com:2,Cisco,ASA5555-K9,206.213.247.41,FGL19247067,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,VPN
+mid-pan-prod-01:1,Paloalto,panorama,10.102.9.88,000710029848_ESX:A6060600FFFB8B1F,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+midfire19-1,Cisco,Firepower 2130 Threat Defense,172.19.104.23,JAD2717020W,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+midfire19-2,Cisco,Firepower 2130 Threat Defense,172.19.104.24,JAD264104FV,Offline,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,INTERNAL
+mlf-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.144.18,FTX2237W05Q,Offline,MLF,PSS,US > MA > Milford > 48036 - 48036B01,INTERNAL|PCI
+mlf-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.144.17,FTX2237W061,Offline,MLF,PSS,US > MA > Milford > 48036 - 48036B01,INTERNAL|PCI
+mnr-sec-m1a-sema-02-a,Cisco,ASA5555-K9,10.76.34.35,FTX2235W0SP,Offline,MNR,PSS,US > IL > Mount Prospect > 08702 - 08702B01,INTERNAL|PCI
+mnr-sec-m1a-sema-02-s,Cisco,ASA5555-K9,10.76.34.36,FTX2235W0S0,Offline,MNR,PSS,US > IL > Mount Prospect > 08702 - 08702B01,INTERNAL|PCI
+mrl-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.81.32.38,FTX2235W0SR,Offline,MRL,PSS,US > PA > Monroeville > 02921 - 02921B04,INTERNAL|PCI
+mrl-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.81.32.37,FTX2235W0SM,Offline,MRL,PSS,US > PA > Monroeville > 02921 - 02921B04,INTERNAL|PCI
+omnicare/omnicare,Cisco,5585-SSP-60,,JMX1748804Y/omnicare,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+oro-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.151.34.34,FTX2235W0BJ,Offline,ORD,PSS,US > FL > Orlando > 48003 - 48003B01,INTERNAL|PCI
+oro-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.151.34.35,FTX2235W0C6,Offline,ORD,PSS,US > FL > Orlando > 48003 - 48003B01,INTERNAL|PCI
+partner/partner,Cisco,5585-SSP-60,10.218.232.11,JMX1748804X/partner,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+pazshcp-sec-ext-wfh-01-fo.caremark.com,Cisco,ASA5555-K9,10.10.109.167,FGL17384108,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-aet-fx-01.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.190,JMX2631X5VR,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-aet-fx-02.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.191,JMX2631X5WF,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-atg-fx-01:1,Cisco,FPR4145-NGFW-K9,10.10.123.55,JMX2522X00M,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-atg-fx-01:2,Cisco,FX-OS,10.10.123.55,JAD2517011J,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-GUEST-01/pri/stby,Cisco,5555,10.123.159.33,FTX2053W1TP,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-GUEST-01/sec/act,Cisco,5555,10.123.159.32,FGL202240QQ,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-guest-02,Cisco,ASA5555-MB,10.123.159.34,FCH202070YD,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-01-Conduent,Cisco,SM-56,10.119.175.120,FLM271604P3ZJM,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-01-Fiserv,Cisco,SM-56,10.119.175.124,FLM271604P3BQZ,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-01-MedHok.csv.com,Cisco,SM-56,10.119.175.134,FLM271604LBA3F,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-01-MedHokAWS.cvs.com,Cisco,SM-56,10.119.175.136,FLM271604LBJ2N,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|CLOUD|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-01-TCS,Cisco,SM-56,10.119.175.122,FLM271604LBY3T,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-02-Conduent,Cisco,SM-56,10.119.175.121,FLM271604KHPFJ,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-02-MedHok.csv.com,Cisco,SM-56,10.119.175.135,FLM271604KEVCS,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-02-MedHokAWS.cvs.com,Cisco,SM-56,10.119.175.137,FLM271604KER1J,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|CLOUD|PERIMETER
+PAZSHDC-SEC-EXT-MPLSWEST-02-TCS,Cisco,SM-56,10.119.175.123,FLM271604KEPB4,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-mplswest-fxos-01.cvs.com,Cisco,FPR-C9300-AC,10.119.175.98,JMX2719X15Y,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-mplswest-fxos-02.cvs.com,Cisco,FPR-C9300-AC,10.119.175.99,JMX2719X14P,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net-01-a,Cisco,ASA5555-K9,10.123.159.114,FTX203610L9,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-net-01-s,Cisco,ASA5555-K9,10.123.159.115,FTX2129W0N3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-NET-PA-01/vsys1,Paloalto,pa-1420,10.10.124.75,'	026909004648,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-NET-PA-02/vsys1,Paloalto,pa-1420,10.10.124.76,'	026909004649,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-net4wir-01-abc,Cisco,ASA5585-S10F10-K9,,10.218.232.72,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-abc-fo,Cisco,ASA5585-S10F10-K9,10.218.232.73,10.218.232.73,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-concentrix,Cisco,ASA5585-S10F10-K9,,10.218.232.76,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-concentrix-fo,Cisco,ASA5585-S10F10-K9,,10.218.232.77,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-conduent-fo,Cisco,ASA5585-S10F10-K9,,10.218.232.71,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01-conduent/Fiserv,Cisco,5585-SSP-60,,JMX1748804Y/Fiserv,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-fiserv,Cisco,ASA5585-S10F10-K9,,10.218.232.74,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-fiserv-fo,Cisco,ASA5585-S10F10-K9,,10.218.232.75,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-01-medhokaws,Cisco,ASA5585-SSP-60,,JAD1744019M,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|CLOUD|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/admin,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/admin,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/Anthem,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/Anthem,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/RXConnectDR,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/RXConnectDR,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|DR|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/test-text,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/test-text,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/trizetto,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/trizetto,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor12,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor12,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor25,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor25,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor26,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor26,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor36,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor36,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor37,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor37,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor38,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor38,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor39,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor39,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor40,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor40,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor41,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor41,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor42,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor42,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor43,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor43,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor44,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor44,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor46,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor46,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor47,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor47,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor48,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor48,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor49,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor49,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/vendor9,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/vendor9,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/pri/stby/wellpoint,Cisco,5585-SSP-60,10.10.109.183,JMX1748804Y/wellpoint,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|INTERNAL|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/admin,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/admin,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/Anthem,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/Anthem,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/RXConnectDR,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/RXConnectDR,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|DR|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/test-text,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/test-text,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor12,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor12,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor25,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor25,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor26,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor26,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor36,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor36,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor37,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor37,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor38,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor38,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor39,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor39,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor40,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor40,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor41,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor41,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor42,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor42,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor43,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor43,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor44,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor44,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor46,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor46,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor47,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor47,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor48,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor48,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor49,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor49,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/vendor9,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/vendor9,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01/sec/act/wellpoint,Cisco,5585-SSP-60,10.10.109.182,JMX1748804X/wellpoint,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|INTERNAL|PERIMETER
+PAZSHDC-SEC-EXT-NET4WIR-01:abc/abc,Cisco,5585-SSP-60,10.218.232.72,JMX1748804X/abc,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-acs,Cisco,ASA5585-SSP-60,,10.218.232.49,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-alere,Cisco,ASA5585-SSP-60,,10.218.232.13,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-anthem,Cisco,ASA5585-SSP-60,,10.218.232.41,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-apac,Cisco,ASA5585-SSP-60,,10.218.232.51,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-britishtelecom,Cisco,ASA5585-SSP-60,,10.218.232.45,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-capgemini,Cisco,ASA5585-SSP-60,,10.218.232.39,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-continuum,Cisco,ASA5585-SSP-60,10.218.232.47,10.218.232.47,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-conveynations,Cisco,ASA5585-SSP-60,,10.218.232.27,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-emdeon,Cisco,ASA5585-SSP-60,10.218.232.53,10.218.232.53,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-heartland,Cisco,ASA5585-SSP-60,,10.218.232.35,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-medhok,Cisco,ASA5585-SSP-60,,10.218.232.31,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-medhokaws,Cisco,ASA5585-SSP-60,,10.218.232.65,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|CLOUD|PERIMETER
+pazshdc-sec-ext-net4wir-02-omnicare,Cisco,ASA5585-SSP-60,,10.218.232.29,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-partner,Cisco,ASA5585-SSP-60,,10.218.232.11,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-relayhealth,Cisco,ASA5585-SSP-60,,10.218.232.15,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-tcs,Cisco,ASA5585-SSP-60,,10.218.232.21,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-trizetto,Cisco,ASA5585-SSP-60,,10.218.232.55,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-ttec,Cisco,ASA5585-SSP-60,10.218.232.43,10.218.232.43,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-net4wir-02-vantiv,Cisco,ASA5585-SSP-60,,10.218.232.23,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,B2B|PERIMETER
+pazshdc-sec-ext-rsnet-fx-01.cvs.com,Cisco,FPR4145-ASA-K9,10.10.122.129,JMX2439L031,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-rsnet-fx-02:1,Cisco,FX-OS,10.10.122.178,JAD24290T2Q,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-rsnet-fx-02:2,Cisco,FPR4145-ASA-K9,10.10.122.178,JMX2439L034,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-SDWAN-01/pri/act,Cisco,FPR4K-SM-12,10.10.124.33,FLM2214020K,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-SDWAN-01/sec/stby,Cisco,FPR4K-SM-12,10.10.124.34,FLM23010131,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-sdwan-02,Cisco,FPR4K-SM-12,10.10.124.34,10.10.124.34,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-sdwan-fx-01:1,Cisco,Firepower NGFW 4110,10.10.124.31,JAD23070ZYG,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-sdwan-fx-01:2,Cisco,FPR4110-NGFW-K9,10.10.124.31,JMX2309L04P,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-sdwan-fx-02:1,Cisco,Firepower NGFW 4110,10.10.124.32,JAD23080K5D,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-sdwan-fx-02:2,Cisco,FPR4110-NGFW-K9,10.10.124.32,JMX2309L04T,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXT-VPN-01,Cisco,4145,10.123.254.196,FLM2628VNQ1,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+PAZSHDC-SEC-EXT-VPN-01/pri/act,Cisco,5585-SSP-40,204.99.12.50,JMX2030L09S,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+PAZSHDC-SEC-EXT-VPN-01/sec/stby,Cisco,5585-SSP-40,204.99.12.51,JMX2030L09Q,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+PAZSHDC-SEC-EXT-VPN-02,Cisco,4145,10.123.254.197,FLM263700BX,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdc-sec-ext-vpn-fxos-01,Cisco,FX-OS,10.123.254.194,JAD263009XS,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdc-sec-ext-vpn-fxos-01.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.194,JMX2631X5VH,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdc-sec-ext-vpn-fxos-02,Cisco,FX-OS,10.123.254.195,JAD264300FB,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdc-sec-ext-vpn-fxos-02.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.195,JMX2644X0KZ,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdc-sec-ext-wfh-01,Cisco,ASA5555-MB,10.10.109.166,FCH17347JD9,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wfh-02,Cisco,ASA5555-MB,10.10.109.167,FCH17347JAL,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-3,Cisco,ASA5555-MB,10.123.159.60,FCH18227C4L,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-3-fo.caremark.com,Cisco,ASA Firewall,,FGL182440VV,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-3.caremark.com,Cisco,ASA Firewall,,FGL182440VW,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-4,Cisco,ASA5555-MB,10.123.159.61,FCH18207DMG,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-fx-01.cvs.com,Cisco,FPR-CH-9300-AC,10.123.254.19,JMX2411L01Y,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-ext-wir-fx-02.cvs.com,Cisco,FPR-C9300-AC,10.123.254.21,JMX2644X0J3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXTATG-01,Cisco,4145,10.10.123.57,FLM250900DN,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXTATG-02,Cisco,4145,10.10.123.58,FLM25080C9H,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extcld-01:1,Cisco,ASA on FTD,10.10.109.204,JMX2717X3QC,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extcld-01:2,Cisco,FX-OS,10.10.109.204,JAD2630033E,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extcld-02:1,Cisco,ASA on FTD,10.10.109.216,JMX2715X3J6,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extcld-02:2,Cisco,FX-OS,10.10.109.216,JAD26290AVM,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extwir-01,Cisco,FPR9K-SM-56,10.123.254.8,FLM2447010K,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-extwir-02,Cisco,FPR9K-SM-56,10.123.254.9,FLM264006BK,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXTWIR-PA-01/vsys1,Paloalto,pa-5450,10.10.124.85,'	019909000936,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+PAZSHDC-SEC-EXTWIR-PA-02/vsys1,Paloalto,pa-5450,10.10.124.86,'	019909000903,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdc-sec-int-atg-fx-01:1,Cisco,FPR4145-NGFW-K9,10.10.123.51,JMX2522X00V,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-atg-fx-01:2,Cisco,FX-OS,10.10.123.51,JAD25170113,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-atg-fx-02:1,Cisco,FX-OS,10.10.123.52,JAD250309VX,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-atg-fx-02:2,Cisco,FPR4145-NGFW-K9,10.10.123.52,JMX2522X00N,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-pci-fxos-01.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.204,JMX2632X000,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdc-sec-int-pci-fxos-02.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.205,JMX2632X01U,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+PAZSHDC-SEC-INT-SEMA-01/pri/stby,Cisco,FPR4K-SM-44,10.218.26.133,FLM221304TR,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+PAZSHDC-SEC-INT-SEMA-01/sec/act,Cisco,FPR4K-SM-44,10.218.26.132,FLM221302Q6,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdc-sec-int-sema-fx-02:1,Cisco,Firepower 41xx,10.123.254.158,JMX2232L045,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdc-sec-int-sema-fx-02:2,Cisco,FX-OS,10.123.254.158,JAD222609JM,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdc-sec-int-wir-fx-01,Cisco,FX-OS,10.10.123.11,JAD24251076,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-wir-fx-01.cvs.com,Cisco,FPR4145-ASA-K9,10.10.123.11,JMX2427L037,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-wir-fx-02,Cisco,FX-OS,10.10.123.12,JAD2425041A,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-int-wir-fx-02.cvs.com,Cisco,FPR4145-ASA-K9,10.10.123.12,JMX2427L022,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+PAZSHDC-SEC-INTWIR-01/pri/stby,Cisco,FPR4K-SM-44S,204.99.62.5,FLM241801RL,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+PAZSHDC-SEC-INTWIR-01/sec/act,Cisco,FPR4K-SM-44S,204.99.62.2,FLM234001LL,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+pazshdc-sec-sema-fx-01:1,Cisco,Firepower 41xx,10.123.254.157,JMX2232L043,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PCI
+pazshdc-sec-sema-fx-01:2,Cisco,FX-OS,10.123.254.157,JAD222609GK,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PCI
+pazshdcsecext0365-01,Checkpoint,Check Point 23800,204.99.62.91,LR201907006238,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecext0365-02,Checkpoint,Check Point 23800,204.99.62.92,LR201907006243,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1-rsia-fo,Cisco,ASA5585-S10F10-K9,10.231.123.6,10.231.123.6,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1-sip,Cisco,Unknown,10.231.124.6,10.231.124.6,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PERIMETER
+pazshdcsecextrs-1/pri/stby/admin,Cisco,5585-SSP-60,10.123.254.72,JMX19208034/admin,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1/pri/stby/DMVPN,Cisco,5585-SSP-60,10.123.254.72,JMX19208034/DMVPN,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextrs-1/pri/stby/RSIA,Cisco,5585-SSP-60,10.123.254.72,JMX19208034/RSIA,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1/pri/stby/SIP,Cisco,5585-SSP-60,10.123.254.72,JMX19208034/SIP,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PERIMETER
+pazshdcsecextrs-1/sec/act/admin,Cisco,5585-SSP-60,10.123.254.71,JMX19208082/admin,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1/sec/act/DMVPN,Cisco,5585-SSP-60,10.123.254.71,JMX19208082/DMVPN,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextrs-1/sec/act/RSIA,Cisco,5585-SSP-60,10.123.254.71,JMX19208082/RSIA,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER
+pazshdcsecextrs-1/sec/act/SIP,Cisco,5585-SSP-60,10.123.254.71,JMX19208082/SIP,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PERIMETER
+pazshdcsecextvpn-1,Cisco,FPR4K-SM-32S,10.218.22.108,FLM261806P6,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextvpn-2,Cisco,FPR4K-SM-32S,10.218.22.109,FLM25390439,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextvpn-3,Cisco,FPR4K-SM-32S,10.218.24.253,FLM261806PJ,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextvpn-4,Cisco,FPR4K-SM-32S,10.218.50.2,FLM261806QA,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextvpn-5,Cisco,FPR4K-SM-32S,10.218.50.6,FLM261806CF,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecextvpn-6,Cisco,FPR4K-SM-32S,10.218.22.110,FLM2539041L,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,PERIMETER|VPN
+pazshdcsecintexpftdpci-01:1,Cisco,FPR4150-NGFW-K9,,JMX2305L02L,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdcsecintexpftdpci-01:2,Cisco,FX-OS,10.10.124.24,JAD23040B0C,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdcsecintftdpci-01,Cisco,FPR4120-NGFW-K9,10.10.124.20,JMX2304L018,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdcsecintftdpci-02,Cisco,FPR4120-NGFW-K9,10.10.124.21,JMX2304L016,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshdcsecumsptnp-1/NON-PROD,Cisco,5585-SSP-10,10.218.23.244,JMX193980E3/NON-PROD,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+pazshlbsecintsema-1/pri/act,Cisco,5555,10.218.26.140,FTX2233W04B,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pazshlbsecintsema-1/sec/stby,Cisco,5555,10.218.26.141,FTX2233W04H,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL|PCI
+pcarccmsecint-01,Cisco,Unknown,10.58.0.40,10.58.0.40,Offline,Unknown Import,,Unknown Import,INTERNAL
+pdc-fw-aetna-1:1,Cisco,Firepower 2130 Threat Defense,10.40.49.73,JAD264201LX,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),CC|DMZ
+pdc-fw-aetna-1:2,Cisco,FPR2130-NGFW-K9,10.40.49.73,JMX2642X11K,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),CC|DMZ
+pdc-fw-aetna-2:1,Cisco,FPR2130-NGFW-K9,10.40.49.74,JMX2642X11A,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),CC|DMZ
+pdc-fw-aetna-2:2,Cisco,Firepower 2130 Threat Defense,10.40.49.74,JAD2634005V,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),CC|DMZ
+pdc-fw-cvty-1:1,Cisco,Firepower 2130 Threat Defense,10.40.49.71,JAD262407YW,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-cvty-1:2,Cisco,FPR2130-NGFW-K9,10.40.49.71,JMX2625X0W4,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-cvty-2:1,Cisco,FPR2130-NGFW-K9,10.40.49.72,JMX2622X1FW,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-cvty-2:2,Cisco,Firepower 2130 Threat Defense,10.40.49.72,JAD262204SR,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-dmz-a:1,Checkpoint,PH-30,10.40.233.16,LR201611025680,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-dmz-a:2,Checkpoint,15000 Appliances,10.40.233.16,10.40.233.16,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-dmz-b:1,Checkpoint,PH-30,10.40.233.17,LR201611025625,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-dmz-b:2,Checkpoint,15000 Appliances,10.40.233.17,10.40.233.17,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-extranet-a,Cisco,ASA5555-K9,10.40.224.70,FGL174840Q9,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-extranet-s,Cisco,ASA5555-K9,10.40.224.69,FGL174840Q3,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-glr-a:1,Checkpoint,15000 Appliances,10.40.233.29,10.40.233.29,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-glr-a:2,Checkpoint,PH-20,10.40.233.29,LR201601013041,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-glr-b:1,Checkpoint,PH-20,10.40.233.30,LR201608005325,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-glr-b:2,Checkpoint,15000 Appliances,10.40.233.30,10.40.233.30,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|PERIMETER
+pdc-fw-inetdmz-a:1,Checkpoint,13000 Appliances,10.249.1.8,10.249.1.8,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-inetdmz-a:2,Checkpoint,PH-30,10.249.1.8,LR201611025631,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-inetdmz-b:1,Checkpoint,13000 Appliances,10.249.1.9,10.249.1.9,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-inetdmz-b:2,Checkpoint,PH-30,10.249.1.9,LR201611025611,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-pdchs-fo.aetna.com,Cisco,ASA5585-S10F10-K9,10.108.52.12,JMX192580F0,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-pdchs:1,Cisco,ASA5585-SSP-40,10.108.52.11,JMX192580F1,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-pdchs:2,Cisco,ASA5585-SSP-40,,JAD19210454,,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ
+pdc-fw-services-a:1,Checkpoint,23000 Appliances,206.213.226.12,206.213.226.12,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|INTERNAL
+pdc-fw-services-a:2,Checkpoint,PD-20-00,206.213.226.12,LR201809006048,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|INTERNAL
+pdc-fw-services-b:1,Checkpoint,23000 Appliances,206.213.226.13,206.213.226.13,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|INTERNAL
+pdc-fw-services-b:2,Checkpoint,PD-20-00,206.213.226.13,LR201809000895,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|INTERNAL
+pdc-fw-vpn1-a,Cisco,ASA5555-K9,10.249.30.11,FGL174840Q4,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|VPN
+pdc-fw-vpn1-s,Cisco,ASA5555-K9,10.249.30.12,FGL174840QA,Offline,PDC,Aetna,US > AZ > Phoenix > AZ0512 - AZ0512B01 (PDC),DMZ|VPN
+PGAATCPSECINTSEMA-01/pri/stby,Cisco,5555,10.38.88.12,FTX2150W0M2,Offline,AAN,PSS,US > GA > Atlanta > 48637 - 48637B01,INTERNAL|PCI
+PGAATCPSECINTSEMA-01/sec/act,Cisco,5555,10.38.88.11,FTX2235W0TD,Offline,AAN,PSS,US > GA > Atlanta > 48637 - 48637B01,INTERNAL|PCI
+phx-mx-l1-1,Cisco,MX84,68.227.44.103,Q2PN-5J6P-TPM3,Offline,PHX,Aetna,US > AZ > Phoenix > AZ0515 - AZ0515B01,
+PIH-SEC-M1A-PCI-01/pri/stby,Cisco,5555,10.84.241.12,FTX203610LM,Online,PIH,PSS,US > PA > Pittsburgh > 97760 - 97760B01,INTERNAL|PCI
+PIH-SEC-M1A-PCI-01/sec/act,Cisco,5555,10.84.241.11,FTX203610LZ,Online,PIH,PSS,US > PA > Pittsburgh > 97760 - 97760B01,INTERNAL|PCI
+pilmpccsecintmat-1-fo.cvs.com,Cisco,ASA5516-FPWR-K9,10.76.255.42,JMX2103Y0KD,Offline,MNR,PSS,US > IL > Mount Prospect > 08702 - 08702B01,INTERNAL
+pilmpccsecintmat-1.cvs.com,Cisco,ASA5516-FPWR-K9,10.76.255.41,JMX2103Y0ZZ,Offline,MNR,PSS,US > IL > Mount Prospect > 08702 - 08702B01,INTERNAL
+pilmpmo2secintmdf-01,Cisco,ASA5585-SSP-60,10.91.255.28,JAF1546CHSE,Offline,MNO,PSS,US > IL > Mount Prospect > 99625 - 99625B04,INTERNAL
+pilmpmo2secintmdf-01/act,Cisco,ASA5585-SSP-60,10.91.255.28,JAF1546CHSE,Offline,MNO,PSS,US > IL > Mount Prospect > 99625 - 99625B04,INTERNAL
+pilmpmo2secintmdf-01/pri/act/admin,Cisco,5585-SSP-60,10.91.255.28,JMX1553701T/admin,Offline,MNO,PSS,US > IL > Mount Prospect > 99625 - 99625B04,INTERNAL
+pilmpmo2secintmdf-01/pri/act/Prod,Cisco,5585-SSP-60,10.91.255.28,JMX1553701T/Prod,Offline,MNO,PSS,US > IL > Mount Prospect > 99625 - 99625B04,INTERNAL
+pmamlmssecint-01,Cisco,ASA5516-FPWR-K9,10.38.147.141,JMX2431X07U,Offline,MLF,PSS,US > MA > Milford > 48036 - 48036B01,INTERNAL
+pmamlmssecint-01-fo,Cisco,ASA5516-FPWR-K9,10.38.147.142,JMX1944Z06D,Offline,MLF,PSS,US > MA > Milford > 48036 - 48036B01,INTERNAL
+pmidtmssecint-01-fo,Cisco,ASA5516-FPWR-K9,10.38.3.142,JMX2240G18X,Offline,TRY,PSS,US > MI > Troy > 48040 - 48040B01,INTERNAL
+pmidtmssecint-01.cvs.com,Cisco,ASA5516-FPWR-K9,10.38.3.141,JMX2240G18T,Offline,TRY,PSS,US > MI > Troy > 48040 - 48040B01,INTERNAL
+pmnedpvsecintmdf-1,Cisco,ASA5555-K9,10.37.255.10,FTX2150W0KG,Offline,Unknown Import,PSS,Unknown Import,INTERNAL
+Pnchpcpsecintmat-1/pri/act,Cisco,5516,10.87.249.10,JMX2101Y17P,Online,HPT,CVS,US > NC > High Point > NC1601 - NC1601B01,INTERNAL
+Pnchpcpsecintmat-1/sec/stby,Cisco,5516,10.87.249.11,JMX2101Y179,Online,HPT,CVS,US > NC > High Point > NC1601 - NC1601B01,INTERNAL
+pncrasp-sec-mdf-sema-01-a,Cisco,ASA5555-K9,10.38.56.30,FTX2236W0LS,Offline,RAG,PSS,US > NC > Raleigh > 48045 - 48045B01,PCI
+pncrasp-sec-mdf-sema-01-s,Cisco,ASA5555-K9,10.38.56.31,FTX2236W0LK,Offline,RAG,PSS,US > NC > Raleigh > 48045 - 48045B01,PCI
+POG17230074,Cisco,ASA5585-S10F10-K9,,POG17230074,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+ppaptcp-sec-mdf-mat-01.cvs.com:1,Cisco,ASA5516-FPWR-K9,10.95.255.42,JMX2103Y0JA,Offline,PIH,PSS,US > PA > Pittsburgh > 97760 - 97760B01,
+PPAPTCP-SEC-MDF-MAT-01/sec/act,Cisco,5516,10.95.248.236,JMX2101Y178,Online,PIH,PSS,US > PA > Pittsburgh > 97760 - 97760B01,
+ppawbmo-sec-mdf-mat-01.cvs.com:1,Cisco,ASA5516-FPWR-K9,10.89.255.41,JMX2103Y0K9,Offline,WBA,PSS,US > PA > Wilkes-Barre > 48002 - 48002B01,
+ppawbmo-sec-mdf-mat-01.cvs.com:2,Cisco,ASA5516-FPWR-K9,10.89.255.42,JMX2103Y0J3,Offline,WBA,PSS,US > PA > Wilkes-Barre > 48002 - 48002B01,
+pprcasp-sec-mdf-sema-01-a-a,Cisco,Firepower 2130 Threat Defense,10.30.86.149,JMX2622X1G0,Offline,CRA,PSS,US > PR > Carolina > 08899 - 08899B05,PCI
+priwsdcsecint-pbm-retail-01.cvs.com,Cisco,FPR4145-NGFW-K9,10.17.209.17,JMX2426L044,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+priwsdcsecint-pbm-retail-02,Cisco,FX-OS,10.17.209.18,JAD2717097W,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+priwsdcsecint-pbm-retail-02.cvs.com,Cisco,FPR4145-NGFW-K9,10.17.209.18,JMX2721X15V,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+PRIWSDCSECINT121B-pbm-retail/pri/act,Cisco,FPR4K-SM-44S,192.168.252.162,FLM241802BH,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+PRIWSDCSECINT121B-pbm-retail/sec/stby,Cisco,FPR4K-SM-44S,192.168.252.163,FLM232400JL,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+priwsdrsecextadmvpn-01.caremarkrx.net,Cisco,ASA5555-K9,,FTX2131W0M8,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|PERIMETER|VPN
+priwsdrsecextca32-1-ftd,Cisco,Firepower 4150 Threat Defense,10.45.143.254,FLM22440833,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|PERIMETER
+priwsdrsecextca32-1-fxos-dr,Cisco,Firepower 41xx,10.45.143.253,JMX2247L02L,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|PERIMETER
+ptnbncpsecintsema-01.cvs.com-fo:2,Cisco,ASA5555-K9,10.38.84.34,FCH22327JMH,Offline,CVL,PSS,US > TN > Collierville > 10994 - 10994B01,INTERNAL|PCI
+PTNBNCPSECINTSEMA-01/pri/act,Cisco,5555,10.38.84.33,FTX2235W0F0,Offline,CVL,PSS,US > TN > Collierville > 10994 - 10994B01,INTERNAL|PCI
+PTNBNCPSECINTSEMA-01/sec/stby,Cisco,5555,10.38.84.34,FTX2235W0VN,Offline,CVL,PSS,US > TN > Collierville > 10994 - 10994B01,INTERNAL|PCI
+PTXDADC-SEC-CLDEQ-01,Cisco,SM-56,10.223.255.187,FLM241707MC,Online,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),CC
+PTXDADC-SEC-CLDEQ-02,Cisco,SM-56,10.223.255.190,FLM242601QE,Online,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),CC
+ptxdadc-sec-eqx-fx-01:1,Cisco,FX-OS,10.223.255.183,JAD24280MRV,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxdadc-sec-eqx-fx-01:2,Cisco,FPR-CH-9300-AC,10.223.255.183,JMX2430L02Y,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxdadc-sec-eqx-fx-02:1,Cisco,FX-OS,10.223.255.184,JAD24300MJL,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxdadc-sec-eqx-fx-02:2,Cisco,FPR-CH-9300-AC,10.223.255.184,JMX2432L02Z,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxdalseccludeq-01:1,Cisco,Firepower NGFW 4110,10.223.255.125,JAD23110Z48,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxdalseccludeq-01:2,Cisco,FPR4145-NGFW-K9,10.223.255.125,JMX2317L01A,Offline,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),
+ptxsnmosecintpcimdf-1/pri/stby,Cisco,5555,10.113.241.12,FTX2150W06P,Online,STI,PSS,US > TX > San Antonio > 03842 - 03842B01,INTERNAL|PCI
+ptxsnmosecintpcimdf-1/sec/act,Cisco,5555,10.113.241.11,FTX2150W0MN,Online,STI,PSS,US > TX > San Antonio > 03842 - 03842B01,INTERNAL|PCI
+Q2PN-2SUG-83JA,Meraki,MX84,,Q2PN-2SUG-83JA,,FLL,Aetna,US > VA > Falls Church > VA6502 - VA6502B01,
+Q2PN-3MZT-FJP3,Meraki,MX84,,Q2PN-3MZT-FJP3,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-3R38-LVWT,Meraki,MX84,,Q2PN-3R38-LVWT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-4R9Y-C846,Meraki,MX84,,Q2PN-4R9Y-C846,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-5Z5L-JR2N,Meraki,MX84,,Q2PN-5Z5L-JR2N,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-6R3C-WQ4X,Meraki,MX84,,Q2PN-6R3C-WQ4X,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-77JL-6NQC,Meraki,MX84,,Q2PN-77JL-6NQC,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-87US-CGWS,Meraki,MX84,,Q2PN-87US-CGWS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-8RH5-PABA,Meraki,MX84,,Q2PN-8RH5-PABA,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-98YF-BBR9,Meraki,MX84,,Q2PN-98YF-BBR9,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-C8NG-HUY7,Meraki,MX84,,Q2PN-C8NG-HUY7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-CUHT-BLE2,Meraki,MX84,,Q2PN-CUHT-BLE2,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-ESUL-R6LG,Meraki,MX84,,Q2PN-ESUL-R6LG,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-FHXJ-KTC5,Meraki,MX84,,Q2PN-FHXJ-KTC5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-GFMD-FRTY,Meraki,MX84,,Q2PN-GFMD-FRTY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-HY8K-YJ27,Meraki,MX84,,Q2PN-HY8K-YJ27,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-JNUE-R3EX,Meraki,MX84,,Q2PN-JNUE-R3EX,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-K6GX-D2JQ,Meraki,MX84,,Q2PN-K6GX-D2JQ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-KAA9-43H6,Meraki,MX84,,Q2PN-KAA9-43H6,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-KEM2-PB8P,Meraki,MX84,,Q2PN-KEM2-PB8P,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-L2LP-3YCL,Meraki,MX84,,Q2PN-L2LP-3YCL,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-LF86-XAWX,Meraki,MX84,,Q2PN-LF86-XAWX,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-LH75-VK6J,Meraki,MX84,,Q2PN-LH75-VK6J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-LJTU-VBSL,Meraki,MX84,,Q2PN-LJTU-VBSL,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-LUFS-MR3J,Meraki,MX84,,Q2PN-LUFS-MR3J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-LX6Y-Q3TA,Meraki,MX84,,Q2PN-LX6Y-Q3TA,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-MLS5-KRF2,Meraki,MX84,,Q2PN-MLS5-KRF2,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-NFQN-TW4B,Meraki,MX84,,Q2PN-NFQN-TW4B,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-NGC7-YN22,Meraki,MX84,,Q2PN-NGC7-YN22,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-NGFF-3GPS,Meraki,MX84,,Q2PN-NGFF-3GPS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-NZAG-TB8F,Meraki,MX84,,Q2PN-NZAG-TB8F,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-QC7Q-SVL9,Meraki,MX84,,Q2PN-QC7Q-SVL9,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-RZDY-3NDF,Meraki,MX84,,Q2PN-RZDY-3NDF,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-TNF8-X8VY,Meraki,MX84,,Q2PN-TNF8-X8VY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-VTYY-5Q4C,Meraki,MX84,,Q2PN-VTYY-5Q4C,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-X7RE-DTRS,Meraki,MX84,,Q2PN-X7RE-DTRS,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-XVCC-HEFR,Meraki,MX84,,Q2PN-XVCC-HEFR,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+Q2PN-ZWW7-FY3L,Meraki,MX84,,Q2PN-ZWW7-FY3L,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+qzc-fw-concentrix2-a:1,Checkpoint,PH-30,10.108.36.6,LR201807002194,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzc-fw-concentrix2-a:2,Checkpoint,15000 Appliances,10.108.36.6,10.108.36.6,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzc-fw-concentrix2-b:1,Checkpoint,PH-30,10.108.36.7,LR201807002196,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzc-fw-concentrix2-b:2,Checkpoint,15000 Appliances,10.108.36.7,10.108.36.7,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzn-fw-accenture-a:1,Checkpoint,PL-20,10.108.244.11,1823BA0335,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzn-fw-accenture-a:2,Checkpoint,5000 Appliances,10.108.244.11,10.108.244.11,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzn-fw-accenture-b:1,Checkpoint,PL-20,10.108.244.12,1819BA3598,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+qzn-fw-accenture-b:2,Checkpoint,5000 Appliances,10.108.244.12,10.108.244.12,Offline,QZT,Aetna,APAC > PH > MNL > QZT,B2B
+R-MAWT-ASA-VPN02,Cisco,5585-SSP-20,10.218.24.254,JMX17428091,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,VPN
+razphdi-sec-mdf-int-01-a,Cisco,ASA5516-FPWR-K9,10.195.65.10,JMX2140G06E,Offline,TON,PCW,US > AZ > Tolleson > 86180 - 86180B02,INTERNAL
+razphdi-sec-mdf-int-01-s,Cisco,ASA5516-FPWR-K9,10.195.65.9,JMX2140G07D,Offline,TON,PCW,US > AZ > Tolleson > 86180 - 86180B02,INTERNAL
+razshdc-sec-int-rxc-fxos-01,Cisco,FX-OS,10.123.254.208,JAD2628047Z,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+razshdc-sec-int-rxc-fxos-01.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.208,JMX2631X07T,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+razshdc-sec-int-rxc-fxos-02,Cisco,FX-OS,10.123.254.209,JAD262401R2,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+razshdc-sec-int-rxc-fxos-02.cvs.com,Cisco,FPR4145-NGFW-K9,10.123.254.209,JMX2631X071,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+RAZSHDC-SEC-INTRXC-02,Cisco,4145,10.123.254.211,FLM2628VBUC,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,INTERNAL
+razshdcsecintdrgw-01/actnofailover,Cisco,ASA5555-K9,10.218.24.186,FCH1838JJCV,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,DR|INTERNAL
+RCALHDI-SEC-MDF-INT-01/pri/stby,Cisco,5516,10.195.1.9,JMX2144G1E9,Online,LAH,PCW,US > CA > La Habra > 86170 - 86170B01,INTERNAL
+RCALHDI-SEC-MDF-INT-01/sec/act,Cisco,5516,10.195.1.10,JMX2144G1DP,Online,LAH,PCW,US > CA > La Habra > 86170 - 86170B01,INTERNAL
+rdp-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.184.34,FTX2237W08Z,Offline,RDP,PCW,US > NJ > Randolph > 06872 - 06872B01,INTERNAL|PCI
+rdp-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.184.35,FTX2237W091,Offline,RDP,PCW,US > NJ > Randolph > 06872 - 06872B01,INTERNAL|PCI
+red-apl-fch18417tnt,Cisco,ASA5555-K9,,FCH18417TNT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fch18427s5a,Cisco,ASA5555-K9,,FCH18427S5A,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fch2020jelj,Cisco,ASA5555-K9,,FCH2020JELJ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fch2020jenx,Cisco,ASA5555-K9,,FCH2020JENX,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fgl174940tf,Cisco,ASA5555-K9,,FGL174940TF,,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+red-apl-fgl174940tj,Cisco,ASA5555-K9,,FGL174940TJ,,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+red-apl-fgl1924707s,Cisco,ASA5555-K9,,FGL1924707S,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fgl1924707t,Cisco,ASA5555-K9,,FGL1924707T,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-fgl201340qy,Cisco,ASA5555-K9,,FGL201340QY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx175010gx,Cisco,ASA5525-K9,,FTX175010GX,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx175010gz,Cisco,ASA5525-K9,,FTX175010GZ,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx175010h3,Cisco,ASA5525-K9,,FTX175010H3,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx175010h5,Cisco,ASA5525-K9,,FTX175010H5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx1830104f,Cisco,ASA5525-K9,,FTX1830104F,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx1830104p,Cisco,ASA5525-K9,,FTX1830104P,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2147w0a5,Cisco,ASA5555-K9,,FTX2147W0A5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2147w0ad,Cisco,ASA5555-K9,,FTX2147W0AD,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2235w0sh,Cisco,ASA5555-K9,,FTX2235W0SH,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2235w0sk,Cisco,ASA5555-K9,,FTX2235W0SK,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2236w0m7,Cisco,ASA5555-K9,,FTX2236W0M7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-ftx2236w0m9,Cisco,ASA5555-K9,,FTX2236W0M9,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1651813q,Cisco,ASA5585-S10F10-K9,,JMX1651813Q,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx181780d5,Cisco,ASA5585-S10F10-K9,,JMX181780D5,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx181780d6,Cisco,ASA5585-S10F10-K9,,JMX181780D6,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx184580g5,Cisco,ASA5585-S10F10-K9,,JMX184580G5,,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+red-apl-jmx18468009,Cisco,ASA5585-S10F10-K9,,JMX18468009,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1846800a,Cisco,ASA5585-S10F10-K9,,JMX1846800A,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1846800b,Cisco,ASA5585-S10F10-K9,,JMX1846800B,,MID,Aetna,US > CT > Middletown > CT3502 - CT3502B01,
+red-apl-jmx1903803n,Cisco,ASA5585-S10F10-K9,,JMX1903803N,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1903803y,Cisco,ASA5585-S10F10-K9,,JMX1903803Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1903803z,Cisco,ASA5585-S10F10-K9,,JMX1903803Z,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx19038040,Cisco,ASA5585-S10F10-K9,,JMX19038040,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx192680pg,Cisco,ASA5585-S10F10-K9,,JMX192680PG,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx192680pt,Cisco,ASA5585-S10F10-K9,,JMX192680PT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx19288066,Cisco,ASA5585-S10F10-K9,,JMX19288066,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1928806c,Cisco,ASA5585-S10F10-K9,,JMX1928806C,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1928806h,Cisco,ASA5585-S10F10-K9,,JMX1928806H,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1928806j,Cisco,ASA5585-S10F10-K9,,JMX1928806J,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx193980e2,Cisco,ASA5585-S10F10-K9,,JMX193980E2,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx193980e7,Cisco,ASA5585-S10F10-K9,,JMX193980E7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx193980e8,Cisco,ASA5585-S10F10-K9,,JMX193980E8,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1942800g,Cisco,ASA5585-S10F10-K9,,JMX1942800G,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1942800h,Cisco,ASA5585-S10F10-K9,,JMX1942800H,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx1942802f,Cisco,ASA5585-S10F10-K9,,JMX1942802F,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx20118047,Cisco,ASA5585-S10F10-K9,,JMX20118047,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx201880hy,Cisco,ASA5585-S10F10-K9,,JMX201880HY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx201880ka,Cisco,ASA5585-S10F10-K9,,JMX201880KA,,EWN,PCW,US > NC > New Bern > 05597 - 05597B02,
+red-apl-jmx201880ke,Cisco,ASA5585-S10F10-K9,,JMX201880KE,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx201880ku,Cisco,ASA5585-S10F10-K9,,JMX201880KU,,EWN,PCW,US > NC > New Bern > 05597 - 05597B02,
+red-apl-jmx2030l07b,Cisco,ASA5585-S10F10-K9,,JMX2030L07B,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2030l09x,Cisco,ASA5585-S10F10-K9,,JMX2030L09X,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2035l0c9,Cisco,ASA5585-S10F10-K9,,JMX2035L0C9,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2140g0y0,Cisco,ASA5516-FPWR-K9,,JMX2140G0Y0,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2140g0y7,Cisco,ASA5516-FPWR-K9,,JMX2140G0Y7,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2148102y,Cisco,ASA5585-S10F10-K9,,JMX2148102Y,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx21481034,Cisco,ASA5585-S10F10-K9,,JMX21481034,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx21491012,Cisco,ASA5585-S10F10-K9,,JMX21491012,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx21501001,Cisco,ASA5585-S10F10-K9,,JMX21501001,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx21501002,Cisco,ASA5585-S10F10-K9,,JMX21501002,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx21501003,Cisco,ASA5585-S10F10-K9,,JMX21501003,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2346x0e8,Cisco,ASA5516-FPWR-K9,,JMX2346X0E8,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+red-apl-jmx2346x0eb,Cisco,ASA5516-FPWR-K9,,JMX2346X0EB,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+rel-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.90.32.31,FTX2237W05Z,Offline,REL,PSS,US > CA > Redlands > 97745 - 97745B01,INTERNAL|PCI
+rel-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.90.32.30,FTX2237W05G,Offline,REL,PSS,US > CA > Redlands > 97745 - 97745B01,INTERNAL|PCI
+RelayHealth/RelayHealth,Cisco,5585-SSP-60,10.218.232.15,JMX1748804Y/RelayHealth,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+rfloromsecintmat-1,Cisco,Unknown,10.235.139.4,10.235.139.4,Offline,OLN,PSS,US > FL > Orlando > 48226 - 48226B01,INTERNAL
+rfltprbsecintmdf-1,Cisco,ASA5510-SEC-BUN-K9,10.192.241.10,JMX1114L0LY,Offline,05251 - 05251B01,PCW,US > FL > Tampa > 05251 - 05251B01,INTERNAL
+RFLVBDI-SEC-MDF-INT-01/pri/act,Cisco,5516,10.192.97.10,JMX2140G05Z,Online,VOB,PCW,US > FL > Vero Beach > 86140 - 86140B01,INTERNAL
+RFLVBDI-SEC-MDF-INT-01/sec/stby,Cisco,5516,10.192.97.9,JMX2207G2RZ,Online,VOB,PCW,US > FL > Vero Beach > 86140 - 86140B01,INTERNAL
+RNYWVDI-SEC-MDF-INT-01/pri/stby,Cisco,5516,10.191.65.9,JMX2140G05P,Online,WAV,PCW,US > NY > Waverly > 86250 - 86250B01,INTERNAL
+RNYWVDI-SEC-MDF-INT-01/sec/act,Cisco,5516,10.191.65.10,JMX2138G0BF,Online,WAV,PCW,US > NY > Waverly > 86250 - 86250B01,INTERNAL
+RPASTDI-SEC-MDF-INT-01/pri/act,Cisco,5516,10.191.33.10,JMX2140G06A,Online,SMR,PCW,US > PA > Somerset > 86022 - 86022B01,INTERNAL
+RPASTDI-SEC-MDF-INT-01/sec/stby,Cisco,5516,10.191.33.9,JMX2140G0Z6,Online,SMR,PCW,US > PA > Somerset > 86022 - 86022B01,INTERNAL
+rri1ftgpl1p,"Fortinet,",FGT_4801F,10.17.209.58,FG481FTK23900100,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,
+rri1ftgpl2p,"Fortinet,",FGT_4801F,10.17.209.59,FG481FTK23900102,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,
+rricmcp-sec-mpleast-01-concentrix,Cisco,ASA5585-S60-2A-K9,,10.0.127.52,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-01-fiserv-fo,Cisco,ASA5585-S10F10-K9,,10.0.127.47,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/britishtelecom,Cisco,5585-SSP-60,10.0.127.22,JMX195180BN/britishtelecom,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/Concentrix,Cisco,5585-SSP-60,,JMX195180BN/Concentrix,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/conduent,Cisco,5585-SSP-60,,JMX195180BN/conduent,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/continuum,Cisco,5585-SSP-60,10.0.127.36,JMX195180BN/continuum,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/Fiserv,Cisco,5585-SSP-60,,JMX195180BN/Fiserv,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/geneva,Cisco,5585-SSP-60,10.0.127.34,JMX195180BN/geneva,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/grandview,Cisco,5585-SSP-60,10.0.127.31,JMX195180BN/grandview,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/mckesson,Cisco,5585-SSP-60,10.0.127.24,JMX195180BN/mckesson,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/medcare,Cisco,5585-SSP-60,10.0.127.4,JMX195180BN,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/medhok,Cisco,5585-SSP-60,10.0.127.40,JMX195180BN/medhok,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/merwin,Cisco,5585-SSP-60,10.0.127.14,JMX195180BN/merwin,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/omnicare,Cisco,5585-SSP-60,,JMX1952806K,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-01/pri/stby/admin,Cisco,5585-SSP-60,,JMX1952806K/ADMIN,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-01/pri/stby/config,Cisco,5585-SSP-60,,JMX1952806K/CONFIG,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-01/sec/act/config,Cisco,5585-SSP-60,,JMX195180BN/CONFIG,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/tcs,Cisco,5585-SSP-60,,JMX195180BN/tcs,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-01/ttec,Cisco,5585-SSP-60,10.0.127.29,JMX1952806K/TTEC,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLEAST-01/wellpartner,Cisco,5585-SSP-60,,JMX195180BN/wellpartner,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02,Cisco,ASA5585-SSP-60,,JAD193505Z7,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-britishtelecom,Cisco,ASA5585-SSP-60,10.0.127.23,10.0.127.23,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-endeavor,Cisco,ASA5585-SSP-60,,10.0.127.19,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-ext-cloud,Cisco,ASA5585-SSP-60,10.0.127.21,10.0.127.21,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B|PERIMETER
+rricmcp-sec-mpleast-02-mckesson,Cisco,ASA5585-SSP-60,10.0.127.25,10.0.127.25,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-medcare,Cisco,ASA5585-SSP-60,,10.0.127.17,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-omnicare,Cisco,ASA5585-SSP-60,,10.0.127.5,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-opera,Cisco,ASA5585-SSP-60,,10.0.127.7,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcp-sec-mpleast-02-wellpartner,Cisco,ASA5585-SSP-60,,10.0.127.27,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLSEAST-01-MedHok.cvs.com,Cisco,SM-56,10.18.244.178,FLM270900A67R5,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLSEAST-02-Fiserv,Cisco,SM-56,10.18.244.175,FLM264006C4GKB,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+RRICMCP-SEC-MPLSEAST-02-MedHok.cvs.com,Cisco,SM-56,10.18.244.179,FLM245000BBLAL,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B
+rricmcpsecextrs-1-dmvpn,Cisco,ASA5585-S10F10-K9,10.18.126.158,10.18.126.158,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER|VPN
+rricmcpsecextrs-1-dmvpn-fo,Cisco,ASA5585-S10F10-K9,10.18.126.159,10.18.126.159,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER|VPN
+rricmcpsecextrs-1-sip,Cisco,ASA5585-S10F10-K9,10.18.126.146,10.18.126.146,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PERIMETER
+rricmcpsecextrs-1-sip-fo,Cisco,ASA5585-S10F10-K9,10.18.126.173,10.18.126.173,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PERIMETER
+rricmcpsecextrs-1/admin/pri/act,Cisco,5585-SSP-60,10.18.126.188,JMX1922807V,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/admin/sec/stby,Cisco,5585-SSP-60,10.18.126.196,JMX1924800J,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/pri/act/admin,Cisco,5585-SSP-60,,JMX1922807V/ADMIN,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/pri/act/dmvpn,Cisco,5585-SSP-60,10.18.126.188,JMX1922807V/DMVPN,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER|VPN
+rricmcpsecextrs-1/pri/act/rsia,Cisco,5585-SSP-60,10.18.126.188,JMX1922807V/RSIA,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/sec/stby/admin,Cisco,5585-SSP-60,,JMX1924800J/ADMIN,,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/sec/stby/dmvpn,Cisco,5585-SSP-60,10.18.126.196,JMX1924800J/DMVPN,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER|VPN
+rricmcpsecextrs-1/sec/stby/rsia,Cisco,5585-SSP-60,10.18.126.196,JMX1924800J/RSIA,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmcpsecextrs-1/sec/stby/sip,Cisco,5585-SSP-60,10.18.126.196,JMX1924800J/SIP,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PERIMETER
+rricmdc-sec-ext-atg-fxos-01:1,Cisco,FX-OS,10.18.243.197,JAD26280480,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-atg-fxos-01:2,Cisco,FPR4145-NGFW-K9,10.18.243.197,JMX2631X070,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-atg-fxos-02:1,Cisco,FX-OS,10.18.243.198,JAD262804AP,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-atg-fxos-02:2,Cisco,FPR4145-NGFW-K9,10.18.243.198,JMX2631X06X,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-dcom-pt-fx-01:1,Cisco,FPR4120-NGFW-K9,10.18.243.203,JMX2415L00U,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-dcom-pt-fx-01:2,Cisco,Fpr4120K9,10.18.243.203,JAD241407YQ,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-dcom-pt-fx-02:1,Cisco,Fpr4120K9,10.18.243.204,JAD23040AWK,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-dcom-pt-fx-02:2,Cisco,FPR4120-NGFW-K9,10.18.243.204,JMX2304L02Q,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-mplseast-fxos-01.cvs.com,Cisco,FPR-C9300-AC,10.18.244.151,JMX2717X3J5,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B|PERIMETER
+rricmdc-sec-ext-mplseast-fxos-02:2,Cisco,FPR-C9300-AC,10.18.244.152,JMX2717X3JN,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,B2B|PERIMETER
+rricmdc-sec-ext-rsnet-fx-01,Cisco,FX-OS,10.18.242.152,JAD243300BE,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-rsnet-fx-01.cvs.com,Cisco,FPR4145-ASA-K9,10.18.242.152,JMX2439L04J,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-rsnet-fx-02,Cisco,FX-OS,10.18.242.153,JAD24340G23,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-rsnet-fx-02.cvs.com,Cisco,FPR4145-ASA-K9,10.18.242.153,JMX2439L030,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-sdwan-fx-01:1,Cisco,FPR4110-NGFW-K9,10.17.208.116,JMX2310L04E,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-sdwan-fx-01:2,Cisco,Firepower NGFW 4110,10.17.208.116,JAD2306016E,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rricmdc-sec-ext-sdwan-fx-02:1,Cisco,FPR4110-NGFW-K9,10.17.208.117,JMX2310L04F,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-ext-sdwan-fx-02:2,Cisco,Firepower NGFW 4110,10.17.208.117,JAD23090N04,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRICMDC-SEC-EXTATG-01,Cisco,4145,10.18.243.199,FLM2628VBTA,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+RRICMDC-SEC-EXTATG-02,Cisco,4145,10.18.243.200,FLM2628VBLA,Online,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdc-sec-int-atg-fxos-01:1,Cisco,FPR4145-NGFW-K9,10.18.243.193,JMX2631X08X,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-atg-fxos-01:2,Cisco,FX-OS,10.18.243.193,JAD262801E7,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-atg-fxos-02:1,Cisco,FPR4145-NGFW-K9,10.18.243.194,JMX2522X00H,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-atg-fxos-02:2,Cisco,FX-OS,10.18.243.194,JAD251700ZY,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-dcom-pt-fx-01:1,Cisco,Fpr4120K9,10.18.243.201,JAD23040AS3,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-dcom-pt-fx-01:2,Cisco,FPR4120-NGFW-K9,10.18.243.201,JMX2304L027,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-dcom-pt-fx-02:1,Cisco,FPR4120-NGFW-K9,10.18.243.202,JMX2304L01Z,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-dcom-pt-fx-02:2,Cisco,Fpr4120K9,10.18.243.202,JAD230200BP,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-pci-02:2,Cisco,FPR2130-NGFW-K9,10.17.160.52,JMX2642X117,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PCI
+rricmdc-sec-int-rxc-fx-01:1,Cisco,FX-OS,10.18.126.161,JAD26180BNN,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-rxc-fx-01:2,Cisco,FPR4145-NGFW-K9,10.18.126.161,JMX2631X08T,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-rxc-fx-02:1,Cisco,FX-OS,10.18.126.162,JAD26290GY3,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-int-rxc-fx-02:2,Cisco,FPR4145-NGFW-K9,10.18.126.162,JMX2631X090,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL
+rricmdc-sec-webview-01-a,Cisco,ASA5516-FPWR-K9,10.18.112.10,JMX2144G1DS,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+rricmdc-sec-webview-01-s,Cisco,ASA5516-FPWR-K9,10.18.112.9,JMX2144G1DL,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+rricmdcp-sec-ext-emp-1,Cisco,FPR-2130,10.156.16.9,JAD262407YE,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rricmdcp-sec-ext-emp-2,Cisco,FPR-2130,10.156.16.10,JAD264201NX,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rricmdcsecexto365-01,Checkpoint,Check Point 23800,10.156.16.42,LR201907006237,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdcsecexto365-02,Checkpoint,Check Point 23800,10.156.16.43,LR201907006239,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,PERIMETER
+rricmdcsecintpcifxos-01:1,Cisco,Fpr4120K9,10.18.242.25,JAD22470E1W,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PCI
+rricmdcsecintpcifxos-01:2,Cisco,FPR4120-NGFW-K9,10.18.242.25,JMX2304L01N,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,INTERNAL|PCI
+rridcsecaetna-admin.caremarkrx.net,Cisco,ASA5555-K9,,FTX2222W10Y,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,CLOUD|PERIMETER
+rridcsecaetna01/admin,Cisco,5555,10.18.126.45,FTX2222W10W|FTX2222W10W/admin,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,CLOUD|PERIMETER
+RRIDCSECAETNA01/RRIAetna-1,Cisco,5555,10.18.126.45,FTX2222W10W/RRIAetna-1,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,CLOUD|PERIMETER
+RRIWFDI-SEC-MDF-INT-01/pri/stby,Cisco,5516,10.190.1.9,JMX2144G1DX,Online,WNO,PCW,US > RI > Woonsocket > 86070 - 86070B01,INTERNAL
+RRIWFDI-SEC-MDF-INT-01/sec/act,Cisco,5516,10.190.1.10,JMX2140G0XY,Online,WNO,PCW,US > RI > Woonsocket > 86070 - 86070B01,INTERNAL
+RRIWNCP-SEC-MDF-PRINT-01/pri/act,Cisco,5525,10.137.44.10,FTX201010J9,Online,WOK,CVS,US > RI > Woonsocket > 99960 - 99960B01,INTERNAL
+RRIWNCP-SEC-MDF-PRINT-01/sec/stby,Cisco,5525,10.137.44.9,FTX201010JB,Online,WOK,CVS,US > RI > Woonsocket > 99960 - 99960B01,INTERNAL
+RRIWSCP-SEC-EXT-AET-01/sec/stby,Cisco,FPR-2140,10.0.2.250,JMX2247Y0BU,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSCP-SEC-EXT-AET-02/pri/act,Cisco,FPR-2140,10.0.2.249,JMX2247Y0BX,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSCP-SEC-EXT-DCOM-01,Cisco,4145,10.17.5.131,FLM2628VBPG,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSCP-SEC-EXT-DCOM-02,Cisco,4145,10.17.5.132,FLM2628VBQ6,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSCP-SEC-EXT-EMPTEMP-PA-01/vsys1,Paloalto,pa-5430,10.17.209.177,'	025409001018,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSCP-SEC-EXT-EMPTEMP-PA-02/vsys1,Paloalto,pa-5430,10.17.209.178,'	025409001022,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwscp-sec-ext-vf-01/pri/act,Cisco,5550,168.233.112.5,JMX1321L0ER,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,B2B|PERIMETER
+rriwscp-sec-ext-vf-01/sec/stby,Cisco,5550,168.233.112.6,JMX1402L1D1,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,B2B|PERIMETER
+rriwscp-sec-extdcom-dr-01,Cisco,ASA5585-S10-K9,,JMX194680C1,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|PERIMETER
+rriwscp-sec-extdcom-dr-02,Cisco,ASA5585-S10-K9,,JMX194680C2,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|PERIMETER
+RRIWSCP-SEC-INNO-LAB-01/sec/actNoFailover,Cisco,5516,10.17.43.254,JMX2207G2R5,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwscp-sec-intdcom-dr-01:1,Cisco,Firepower 4145 Threat Defense,10.123.254.220,FLM2628VBPH,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+rriwscp-sec-intdcom-dr-01:2,Cisco,ASA5585-S10-K9,,JMX194680CA,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+rriwscp-sec-intdcom-dr-02:1,Cisco,ASA5585-S10-K9,,JMX194680C9,,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+rriwscp-sec-intdcom-dr-02:2,Cisco,Firepower 4145 Threat Defense,10.123.254.221,FLM250802TQ,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+RRIWSCP-SEC-STORELAB-01-RSIA,Cisco,4115,10.134.163.12,FLM250702792JC,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+RRIWSCP-SEC-STORELAB-02-RSIA,Cisco,4115,10.134.163.15,FLM250703HBTDC,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwscpsecextdcomptFTD-01,Cisco,4120,10.18.243.207,FLM240209LD,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwscpsecextdcomptFTD-02,Cisco,4120,10.18.243.208,FLM2137017U,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwscpsecextdcomuatFTD-01,Cisco,4120,10.17.208.204,FLM225009M2,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,B2B|PERIMETER
+rriwscpsecintdcom-1-dr:1,Cisco,Unknown,10.10.107.250,10.10.107.250,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+rriwscpsecintdcom-1-dr:2,Cisco,Unknown,10.10.107.249,10.10.107.249,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,DR|INTERNAL
+rriwscpsecintdcomuatFTD-01,Cisco,4120,10.17.208.203,FLM240209L9,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,B2B|INTERNAL
+rriwsdc-sec-ext-app-01-a,Cisco,ASA5555-K9,10.131.2.44,FTX2047Y0EL,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PERIMETER
+rriwsdc-sec-ext-app-01-s,Cisco,ASA5555-K9,10.131.2.43,FTX2047Y1DD,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PERIMETER
+RRIWSDC-SEC-EXT-APP-PA-01/vsys1,Paloalto,pa-1420,10.131.2.50,'	026909004791,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PERIMETER
+RRIWSDC-SEC-EXT-APP-PA-02/vsys1,Paloalto,pa-1420,10.131.2.51,'	026909004799,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PERIMETER
+rriwsdc-sec-ext-dcom-fxos-01:1,Cisco,FPR4145-NGFW-K9,10.17.209.1,JMX2631X07A,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-dcom-fxos-01:2,Cisco,FX-OS,10.17.209.1,JAD2628048A,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-dcom-fxos-02,Cisco,FX-OS,10.17.209.2,JAD2628048S,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-dcom-fxos-02-fo,Cisco,FPR4145-NGFW-K9,10.17.209.2,JMX2631X06Z,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-dcom-uat-fx-01,Cisco,FPR4120-NGFW-K9,10.17.208.202,JMX2304L029,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-guest-01-s,Cisco,FPR2130,10.18.126.73,JMX2625X0MX,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-strat-01,Cisco,ASA5555-MB,168.233.112.115,FCH2141JDQ5,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-strat-01-a,Cisco,ASA5555-K9,168.233.112.113,FTX2147W0G5,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-strat-01-s,Cisco,ASA5555-K9,168.233.112.115,FTX2147W0G7,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-ext-strat-02,Cisco,ASA5555-MB,168.233.112.116,FCH2141JDQJ,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSDC-SEC-EXT-VPN-01/pri/stby,Cisco,5555,10.17.7.11,FTX182111JL,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+RRIWSDC-SEC-EXT-VPN-01/sec/act,Cisco,5555,10.17.7.12,FTX1822104E,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+RRIWSDC-SEC-EXT-WFH-01-DECOM/pri/stby,Cisco,5555,192.168.251.117,FGL19424188,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSDC-SEC-EXT-WFH-01-DECOM/sec/act,Cisco,5555,192.168.251.116,FGL19424189,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+rriwsdc-sec-int-dcom-fxos-01:1,Cisco,FX-OS,10.17.209.5,JAD2643051Y,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-dcom-fxos-01:2,Cisco,FPR4145-NGFW-K9,10.17.209.5,JMX2644X0DE,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-dcom-fxos-02:1,Cisco,FPR4145-NGFW-K9,10.17.209.6,JMX2644X0AH,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-dcom-fxos-02:2,Cisco,FX-OS,10.17.209.6,JAD2643050J,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-dcom-uat-fx-01:1,Cisco,FPR4120-NGFW-K9,10.17.208.201,JMX2415L00V,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-dcom-uat-fx-01:2,Cisco,Fpr4120K9,10.17.208.201,JAD233614ER,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-emptemp-fxos-1,Cisco,FPR-CH-9300-AC,10.17.209.105,JMX2446L017,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-emptemp-fxos-2:1,Cisco,FPR-CH-9300-AC,10.17.209.106,JMX2446L015,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-emptemp-fxos-2:2,Cisco,FX-OS,10.17.209.106,JAD2439001K,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int-pci-fx-01:1,Cisco,Firepower 41xx,10.17.208.91,JMX2305L02X,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-pci-fx-01:2,Cisco,FX-OS,10.17.208.91,JAD23040ARX,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-pci-fx-02:1,Cisco,Firepower 41xx,10.17.208.92,JMX2141L02H,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-pci-fx-02:2,Cisco,FX-OS,10.17.208.92,JAD213506ZZ,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+RRIWSDC-SEC-INT-SEMA-01-ASA/pri/stby,Cisco,FPR4K-SM-44,10.18.30.133,FLM221201BB,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+RRIWSDC-SEC-INT-SEMA-02-ASA/sec/act,Cisco,FPR4K-SM-44,10.18.30.132,FLM220900G9,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-sema-fx-01:1,Cisco,Firepower 41xx,10.17.208.30,JMX2232L046,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-sema-fx-01:2,Cisco,FX-OS,10.17.208.30,JAD222609G9,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-sema-fx-02:1,Cisco,FX-OS,10.17.208.31,JAD222609GL,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rriwsdc-sec-int-sema-fx-02:2,Cisco,Firepower 41xx,10.17.208.31,JMX2232L044,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+RRIWSDC-SEC-INT-VPN-01/pri/stby,Cisco,5555,10.131.2.37,FTX20371046,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|VPN
+RRIWSDC-SEC-INT-VPN-01/sec/act,Cisco,5555,10.131.2.36,FTX20371048,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|VPN
+rriwsdc-sec-int121b-01-a,Cisco,ASA5585-SSP-40,10.27.27.240,JMX21481030,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int121b-01-admin,Cisco,ASA5585-SSP-40,10.27.27.240,JAD2146040Q,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int121b-01-s,Cisco,ASA5585-SSP-40,10.27.27.241,JMX2148102Z,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-int121b-02-admin,Cisco,ASA5585-SSP-40,10.27.27.241,JAD21450249,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+RRIWSDC-SEC-INTVIEW-01/pri/stby,Cisco,5516,10.18.104.9,JMX2144G1DV,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+RRIWSDC-SEC-INTVIEW-01/sec/act,Cisco,5516,10.18.104.10,JMX2240G18G,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL
+rriwsdc-sec-umsnp-fx-01:1,Cisco,FX-OS,10.17.209.9,JAD264003C5,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwsdc-sec-umsnp-fx-01:2,Cisco,FPR4145-NGFW-K9,10.17.209.9,JMX2644X0AE,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwsdc-sec-umsnp-fx-02:1,Cisco,FX-OS,10.17.209.10,JAD2643051V,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwsdc-sec-umsnp-fx-02:2,Cisco,FPR4145-NGFW-K9,10.17.209.10,JMX2644X0AF,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+rriwsdcsecextempvpn-01v/sec/NoFailover,Cisco,Default-cisco,10.156.16.110,9AHM8KNUBCV,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+rriwsdcsecextempvpn-02v/sec/NoFailover,Cisco,Default-cisco,10.156.16.111,9AT3NDAK1EM,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+rriwsdcsecextempvpn-03v/sec/NoFailover,Cisco,Default-cisco,10.156.16.112,9ATWP71U4NG,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+RRIWSDCSECEXTEMPVPN-04/sec/actNoFailover,Cisco,5585-SSP-40,10.156.16.108,JMX2132L09W,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+rriwsdcsecextempvpn-1,Cisco,FPR4K-SM-32S,10.156.16.105,FLM261806D1,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+rriwsdcsecextempvpn-2,Cisco,FPR4K-SM-32S,10.156.16.106,FLM261806QU,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+rriwsdcsecextempvpn-3,Cisco,FPR4K-SM-32S,10.156.16.107,FLM26150BH4,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER|VPN
+RRIWSDCSECEXTSDWAN-01/act/sec,Cisco,FPR4K-SM-12,10.17.208.118,FLM230600JL,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSDCSECEXTSDWAN-01/stby/pri,Cisco,FPR4K-SM-12,10.17.208.119,FLM2301012P,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,PERIMETER
+RRIWSLBSECINTSEMA-01/pri/act,Cisco,5555,10.134.163.9,FTX2233W04F,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+RRIWSLBSECINTSEMA-01/sec/stby,Cisco,5555,10.134.163.10,FTX2233W04D,Online,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,INTERNAL|PCI
+rsia.cvshealth.com:1,Cisco,ASA5585-S10F10-K9,10.230.123.5,10.230.123.5,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+rsia.cvshealth.com:2,Cisco,ASA5585-S10F10-K9,10.230.123.6,10.230.123.6,Offline,CLD,PCW,US > RI > Cumberland > 99975 - 99975B01,
+RVAASCP-SEC-CLDEQ-02,Cisco,SM-56,10.223.255.174,FLM27490500,Online,EXT,Colo,US > TX > Dallas > Equinix COLO (EXT),CC
+rvaasdc-sec-eqx-fx-01:1,Cisco,FX-OS,10.223.255.73,JAD24310GW0,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+rvaasdc-sec-eqx-fx-01:2,Cisco,FPR-CH-9300-AC,10.223.255.73,JMX2433L02U,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+rvaasdc-sec-eqx-fx-02:1,Cisco,FX-OS,10.223.255.74,JAD24310GX6,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+rvaasdc-sec-eqx-fx-02:2,Cisco,FPR-CH-9300-AC,10.223.255.74,JMX2432L030,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+rvaashsec-sap-01,Cisco,FPR4145-NGFW-K9,10.223.255.77,JMX2317L01M,Offline,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),B2B
+RVAASHSECCLUDEQFTD-01,Cisco,4110,10.223.255.75,FLM23090B91YRW,Online,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+RVAASHSECCLUDEQFTD-02,Cisco,4110,10.223.255.76,FLM23090APE0YN,Online,EXV,Colo,US > VA > Ashburn > Equinix COLO (EXV),
+S1710BA0571,Checkpoint,PL30,,S1710BA0571,,Unknown Import,,Unknown Import,
+sct-fw-cvs-ftd-1:1,Cisco,Firepower 2130 Threat Defense,10.106.128.21,JAD262204SW,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CC
+sct-fw-cvs-ftd-1:2,Cisco,FPR2130-NGFW-K9,10.106.128.21,JMX2622X1G6,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CC
+sct-fw-cvs-ftd-2:1,Cisco,Firepower 2130 Threat Defense,10.106.128.22,JAD262108LC,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CC
+sct-fw-cvs-ftd-2:2,Cisco,FPR2130-NGFW-K9,10.106.128.22,JMX2622X1F3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,CC
+slp-mx-allina-1:1,Cisco,MX84,10.1.10.13,Q2PN-A35X-JL3A,Offline,SLP,PCW,US > LA > Sulphur > 05612 - 05612B02,
+snc-sec-dc-five9-fx-01,Cisco,FPR4145-NGFW-K9,10.73.24.214,JMX2522X00U,Offline,SNC,Colo,US > CA > Santa Clara > CoreSite (SNC),
+snc-sec-dc-five9-fx-02,Cisco,FPR4145-NGFW-K9,10.73.24.215,JMX2548X10Z,Offline,SNC,Colo,US > CA > Santa Clara > CoreSite (SNC),
+snd-fw-conduent-1:1,Cisco,ASA on FTD,10.108.72.21,JMX2625X0UG,Offline,UT1502 - UT1502B01,Aetna,US > UT > Sandy > UT1502 - UT1502B01,B2B
+snd-fw-conduent-1:2,Cisco,Firepower 2130 Threat Defense,10.108.72.21,JAD262407Q7,Offline,UT1502 - UT1502B01,Aetna,US > UT > Sandy > UT1502 - UT1502B01,B2B
+snd-fw-conduent-2:1,Cisco,Firepower 2130 Threat Defense,10.108.72.22,JAD262407V2,Offline,UT1502 - UT1502B01,Aetna,US > UT > Sandy > UT1502 - UT1502B01,B2B
+snd-fw-conduent-2:2,Cisco,ASA on FTD,10.108.72.22,JMX2625X0W9,Offline,UT1502 - UT1502B01,Aetna,US > UT > Sandy > UT1502 - UT1502B01,B2B
+sol-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.88.32.34,FTX2235W0F6,Offline,03359 - 03359B02,PCW,US > OH > Solon > 03359 - 03359B02,INTERNAL|PCI
+sol-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.88.32.33,FTX2235W0S4,Offline,03359 - 03359B02,PCW,US > OH > Solon > 03359 - 03359B02,INTERNAL|PCI
+sti-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.113.32.31,FTX2235W0BW,Offline,STI,PSS,US > TX > San Antonio > 03842 - 03842B01,INTERNAL|PCI
+sti-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.113.32.30,FTX2235W0BQ,Offline,STI,PSS,US > TX > San Antonio > 03842 - 03842B01,INTERNAL|PCI
+tcn-mx-vdc-1:1,Cisco,MX84,174.76.46.207,Q2PN-H5YX-CH2X,Offline,TCN,Aetna,US > AZ > Tucson > AZ0609 - AZ0609B01,
+TCS-VLAN88,Cisco,5585-SSP-60,,JMX1748804Y/TCS-VLAN88,,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+tcs/tcs,Cisco,5585-SSP-60,10.218.232.20,JMX1748804X/tcs,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+tmm-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.128.37,FTX2235W0F8,Offline,TMM,PSS,US > FL > Tampa > 48023 - 48023B01,INTERNAL|PCI
+tmm-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.128.38,FTX2235W0F4,Offline,TMM,PSS,US > FL > Tampa > 48023 - 48023B01,INTERNAL|PCI
+try-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.38.1.19,FTX2237W097,Offline,TRY,PSS,US > MI > Troy > 48040 - 48040B01,INTERNAL|PCI
+try-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.38.1.20,FTX2237W095,Offline,TRY,PSS,US > MI > Troy > 48040 - 48040B01,INTERNAL|PCI
+udl-mx-l1vdc-1:1,Cisco,MX84,50.83.192.212,Q2PN-B2W5-EE2K,Offline,UDL,Aetna,US > IA > Urbandale > IA5003 - IA5003B02,
+ums-az-pt-nonprod-asa-2-pt,Cisco,ASA5585-S10F10-K9,10.9.1.9,10.9.1.9,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+UMS-AZ-PT-NONPROD-ASA-2/admin,Cisco,5585-SSP-10,10.10.107.155,JMX193980E3/admin,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+UMS-AZ-PT-NONPROD-ASA-2/PT,Cisco,5585-SSP-10,10.10.107.155,JMX193980E3/PT,Online,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+use4-ztna-nonprod-01,Cisco,FTD-GCP,10.143.67.98,9AGSUTEAGE3,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+vantiv/vantiv,Cisco,5585-SSP-60,10.218.232.23,JMX1748804Y/vantiv,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+vendor20/acs,Cisco,5585-SSP-60,10.218.232.49,JMX1748804X/acs,Offline,SCT,PSS,US > AZ > Scottsdale > 97749 - 97749B01,
+vsys,Paloalto,pa-1420,10.26.193.25|10.26.193.26,'	026909003141|'	026909003223,Online,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+wba-sec-m1a-sema-01-a,Cisco,ASA5555-K9,10.89.34.34,FTX2235W0C2,Offline,WBA,PSS,US > PA > Wilkes-Barre > 48002 - 48002B01,INTERNAL|PCI
+wba-sec-m1a-sema-01-s,Cisco,ASA5555-K9,10.89.34.33,FTX2235W0T1,Offline,WBA,PSS,US > PA > Wilkes-Barre > 48002 - 48002B01,INTERNAL|PCI
+win-fw-clouddmz-pa-a:1,Paloalto,pa-3420,10.55.162.203,'	024209003049,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-clouddmz-pa-a:2,Paloalto,pa-3420,10.55.162.203,24209003049,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-clouddmz-pa-b:1,Paloalto,pa-3420,10.55.162.204,24209003077,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-clouddmz-pa-b:2,Paloalto,pa-3420,10.55.162.204,'	024209003077,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-cvs-a:1,Checkpoint,PD-20-00,206.213.216.21,LR201802001381,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,CC
+win-fw-cvs-a:2,Checkpoint,23000 Appliances,206.213.216.21,206.213.216.21,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,CC
+win-fw-cvs-b:1,Checkpoint,23000 Appliances,206.213.216.22,206.213.216.22,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,CC
+win-fw-cvs-b:2,Checkpoint,PD-20-00,206.213.216.22,LR201802001379,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,CC
+win-fw-daas.aetna.com,Cisco,ASA5525-K9,167.69.234.160,FTX17501031,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,
+win-fw-daas.aetna.com-fo,Cisco,ASA5525-K9,167.69.234.161,FTX1750102X,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,
+win-fw-dmz-pa-a:1,Paloalto,pa-3440,10.55.162.205,'	024409001948,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-dmz-pa-a:2,Paloalto,pa-3440,10.55.162.205,24409001948,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-dmz-pa-b:1,Paloalto,pa-3440,10.55.162.206,24409001951,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-dmz-pa-b:2,Paloalto,pa-3440,10.55.162.206,'	024409001951,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-edmz-fo.aetna.com,Cisco,ASA5555-K9,206.213.216.24,FGL183740DH,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B|DMZ
+win-fw-edmz-ftd-1,Cisco,FPR4145-NGFW-K9,172.28.104.138,FLM250102F2,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B|DMZ
+win-fw-edmz-ftd-2,Cisco,FPR4145-NGFW-K9,172.28.104.139,FLM25010110,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B|DMZ
+win-fw-edmz.aetna.com,Cisco,ASA5555-K9,206.213.216.23,FGL183740D6,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B|DMZ
+win-fw-equinix-chassis-1:1,Cisco,FX-OS,172.28.104.35,JAD27170D51,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-equinix-chassis-1:2,Cisco,FPR-C9300-AC,172.28.104.35,JMX2729X0XJ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-equinix-chassis-2:1,Cisco,FPR-C9300-AC,172.28.104.36,JMX2729X0RF,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-equinix-chassis-2:2,Cisco,FX-OS,172.28.104.36,JAD272606JV,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-equinix-ftd-1-1:1,Cisco,FPR9K-SM-56,172.28.104.182,FLM29210MYR,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-equinix-ftd-1-1:2,Cisco,FPR9K-SM-56,172.28.104.182,FLM27220ABF,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,B2B
+win-fw-glr-pa-a:1,Paloalto,pa-5430,10.55.138.202,25409001027,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-glr-pa-a:2,Paloalto,pa-5430,10.55.138.202,'	025409001027,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-glr-pa-b:1,Paloalto,pa-5430,10.55.138.203,25409001028,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-glr-pa-b:2,Paloalto,pa-5430,10.55.138.203,'	025409001028,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-inetdmz-1,Cisco,FX-OS,172.28.104.37,JAD27220EBR,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-inetdmz-1.aetna.com,Cisco,FPR-C9300-AC,172.28.104.37,JMX2727X0SZ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-inetdmz-2,Cisco,FX-OS,172.28.104.38,JAD272606JM,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-inetdmz-2.aetna.com,Cisco,FPR-C9300-AC,172.28.104.38,JMX2727X02W,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-ironman-1-fo,Cisco,ASA on FTD,172.28.104.20,JMX2642X116,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-ironman-1:1,Cisco,ASA on FTD,172.28.104.19,JMX2642X11B,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-ironman-1:2,Cisco,Firepower 2130 Threat Defense,172.28.104.19,JAD2634003P,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-ironman-2,Cisco,Firepower 2130 Threat Defense,172.28.104.20,JAD264201MC,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-officeext-a,Cisco,ASA5555-K9,172.21.40.36,FGL181141QP,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-officeext-pa-a:1,Paloalto,pa-1420,10.55.162.209,'	026909004838,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-officeext-pa-a:2,Paloalto,pa-1420,10.55.162.209,26909004838,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-officeext-pa-b:1,Paloalto,pa-1420,10.55.162.210,26909004844,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-officeext-pa-b:2,Paloalto,pa-1420,10.55.162.210,'	026909004844,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-officeext-s,Cisco,ASA5555-K9,172.21.40.35,FGL181141QA,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-pcidev-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.27,JMX2704X0WQ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidev-1:1,Cisco,FPR4145-NGFW-K9,172.28.104.144,JMX2704X0WQ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidev-1:2,Cisco,FX-OS,172.28.104.27,JAD270300WH,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidev-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.28,JMX2633X002,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidev-2:1,Cisco,FPR4145-NGFW-K9,172.28.104.145,JMX2633X002,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidev-2:2,Cisco,FX-OS,172.28.104.28,JAD263107HP,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidevweb-1,Cisco,FPR4145-NGFW-K9,172.28.104.146,JMX2704X0WQ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pcidevweb-2,Cisco,FPR4145-NGFW-K9,172.28.104.147,JMX2633X002,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DEV|PCI
+win-fw-pciprod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.29,JMX2717X341,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PCI
+win-fw-pciprod-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.30,JMX2716X1ZU,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PCI
+win-fw-pod-1,Cisco,FX-OS,172.28.104.33,JAD271506VQ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-pod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.33,JMX2716X251,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-pod-2,Cisco,FX-OS,172.28.104.34,JAD271506W2,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-pod-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.34,JMX2716X28P,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-proxy-1:1,Cisco,FPR4145-ASA-K9,172.28.104.25,JMX2644X0AG,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-proxy-1:2,Cisco,FPR4145-NGFW-K9,172.28.104.142,FLM2637001C,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-proxy-1:3,Cisco,FX-OS,172.28.104.25,JAD2643055H,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-proxy-2:1,Cisco,FPR4145-ASA-K9,172.28.104.26,JMX2633X005,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-proxy-2:2,Cisco,FPR4145-NGFW-K9,172.28.104.143,FLM2628VNPN,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-proxy-2:3,Cisco,FX-OS,172.28.104.26,JAD263205LF,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,PERIMETER
+win-fw-services-a:1,Checkpoint,PD-20-00,206.213.199.212,LR201605016094,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-services-a:2,Checkpoint,23000 Appliances,206.213.199.212,206.213.199.212,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-services-b:1,Checkpoint,PD-20-00,206.213.199.213,LR201710010688,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-services-b:2,Checkpoint,23000 Appliances,206.213.199.213,206.213.199.213,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-sipprod-1,Cisco,FX-OS,172.28.104.21,JAD264300FF,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-sipprod-1.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.21,JMX2644X0D7,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-sipprod-2,Cisco,FX-OS,172.28.104.22,JAD2643051M,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-sipprod-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.22,JMX2644X0DA,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,INTERNAL
+win-fw-vdmz-1,Cisco,FPR4145-ASA-K9,,JMX2717X32R,,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-vdmz-2,Cisco,FX-OS,172.28.104.32,JAD27160TFQ,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-vdmz-2.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.32,JMX2717X327,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-vdmz-new.aetna.com,Cisco,FPR4145-NGFW-K9,172.28.104.31,JMX2803X0LE,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,DMZ
+win-fw-vpn1.aetna.com,Cisco,ASA5555-K9,206.213.216.18,FGL201340QW,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,VPN
+win-fw-vpn1.aetna.com-fo,Cisco,ASA5555-K9,206.213.216.19,FGL201340QV,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,VPN
+win-fw-vpn2-fo.aetna.com,Cisco,ASA5555-K9,206.213.216.51,FGL201340QU,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,VPN
+win-fw-vpn2.aetna.com,Cisco,ASA5555-K9,206.213.216.41,FGL201340QT,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,VPN
+win-pan-prod-01:2,Paloalto,panorama,10.102.25.68,000710029849_ESX:57060500FFFB8B1F,Offline,WIN,Aetna,US > CT > Windsor > CT3002 - CT3002B01,
+WMP2602007M,Cisco,FMC4600-K9,,WMP2602007M,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP263900PT,Cisco,FMC4600-K9,,WMP263900PT,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP263900SY,Cisco,FMC4600-K9,,WMP263900SY,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP2641003D,Cisco,FMC2600-K9,,WMP2641003D,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP2641005F,Cisco,FMC2600-K9,,WMP2641005F,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP270800JA,Cisco,FMC4600-K9,,WMP270800JA,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+WMP270800QN,Cisco,FMC4600-K9,,WMP270800QN,,RED,Colo,US > CT > North Haven > Red-Thread Warehouse,
+won-sec-testlab-01,Cisco,ASA5555-MB,10.254.248.200,FCH22157W8W,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+won-sec-testlab-01-a,Cisco,ASA5555-K9,10.254.248.200,FTX2223W0MX,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
+won-sec-testlab-02,Cisco,ASA5555-MB,10.254.248.201,FCH22327K5S,Offline,WON,PSS,US > RI > Woonsocket > 99993 - 99993B02,LAB
