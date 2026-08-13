@@ -1,0 +1,152 @@
+HOSTNAME,VENDOR,MODEL,FW_TYPE,FTC_STATUS,FTC_DISPLAY_NAME,FTC_IP_ADDRESS,FTC_DEVICE_TYPE,FTC_LOCATION,FTC_DIVISION
+aws-use1nonprd-ingress-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use1nonprd-ingress-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use1nonprd-ingress-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use1nonprd-ingress-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use2nonprod-ingress-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use2nonprod-ingress-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use2nonprod-ingress-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+aws-use2nonprod-ingress-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+CBN-SEC-T1B-APS-01,cisco,ASA5555 (V05),INTERNAL,NOT_IN_FTC_REPORT,,,,,
+egc-use4-ztna-nonprod-01,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,use4-ztna-nonprod-01,10.143.67.98,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-use4-ztna-nonprod-02,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-use4-ztna-nonprod-02,10.143.67.99,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-use4-ztna-nonprod-03,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-use4-ztna-nonprod-03,10.143.67.100,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-use4-ztna-nonprod-04,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-use4-ztna-nonprod-04,10.143.67.101,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-use4-ztna-nonprod-05,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-use4-ztna-nonprod-05,10.143.67.102,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-use4-ztna-nonprod-06,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-use4-ztna-nonprod-06,10.143.67.103,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-01,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-01,10.143.67.168,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-02,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-02,10.143.67.169,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-03,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-03,10.143.67.170,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-04,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-04,10.143.67.171,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-05,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-05,10.143.67.172,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egc-usw2-ztna-nonprod-06,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,egc-usw2-ztna-nonprod-06,10.143.67.167,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+egcuse4nonprd-ingress-2-0-vm-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd-ingress-2-0-vm-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd-ingress-2-0-vm-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd-ingress-2-0-vm-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd2-0-vm-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd2-0-vm-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd2-0-vm-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4nonprd2-0-vm-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4palopoc-01-vm,palo_alto,PA-VM,CLOUD|PERIMETER|POC,NOT_IN_FTC_REPORT,,,,,
+egcuse4palopoc-02-vm,palo_alto,PA-VM,CLOUD|PERIMETER|POC,NOT_IN_FTC_REPORT,,,,,
+egcuse4palopoc-03-vm,palo_alto,PA-VM,CLOUD|PERIMETER|POC,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechub2-0nonprd-ftd-01-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechub2-0nonprd-ftd-02-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechub2-0nonprd-ftd-03-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechub2-0nonprd-ftd-04-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechubnonprodftd-01,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechubnonprodftd-02,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechubnonprodftd-03,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechubnonprodftd-04,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcuse4sechubprodftd-vpn-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER|VPN,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd-ingress-2-0-vm-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd-ingress-2-0-vm-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd-ingress-2-0-vm-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd-ingress-2-0-vm-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd2-0-vm-01,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd2-0-vm-02,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd2-0-vm-03,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2nonprd2-0-vm-04,palo_alto,PA-VM,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2sechubnonprodftd-01,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2sechubnonprodftd-02,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2sechubnonprodftd-03,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2sechubnonprodftd-04,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+egcusw2sechubprodftd-vpn-vm,cisco,Cisco Firepower Threat Defense for GCP,CLOUD|PERIMETER|VPN,NOT_IN_FTC_REPORT,,,,,
+lab_AZ1_FTD_Egress_1,cisco,Cisco Firepower Threat Defense for AWS,LAB,NOT_IN_FTC_REPORT,,,,,
+lab_AZ1_FTD_Egress_2,cisco,Cisco Firepower Threat Defense for AWS,LAB,NOT_IN_FTC_REPORT,,,,,
+lab_AZ1_FTD_Ingress_2,cisco,Cisco Firepower Threat Defense for AWS,LAB,NOT_IN_FTC_REPORT,,,,,
+lgs1501-01b-0105-ext-pa-fw01,palo_alto,PA-5445,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+lgs1502-10c-0105-ext-pa-fw02,palo_alto,PA-5445,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+mid-fw-edmz-ftd-1,cisco,Cisco Firepower 4145 Threat Defense,B2B|DMZ,NOT_IN_FTC_REPORT,,,,,
+mid-fw-edmz-ftd-2,cisco,Cisco Firepower 4145 Threat Defense,B2B|DMZ,NOT_IN_FTC_REPORT,,,,,
+mid-fw-pciqa-web-1,cisco,Cisco Firepower 4145 Threat Defense,PCI,NOT_IN_FTC_REPORT,,,,,
+mid-fw-perfdmz-1,cisco,Cisco Firepower 4145 Threat Defense,DMZ,NOT_IN_FTC_REPORT,,,,,
+mid-fw-perfdmz-2,cisco,Cisco Firepower 4145 Threat Defense,DMZ,NOT_IN_FTC_REPORT,,,,,
+mid-fw-proxy-2,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+midfire19-1,cisco,Cisco Firepower 2130 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+midfire19-2,cisco,Cisco Firepower 2130 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-GUEST-01,cisco,ASA5555 (V05),PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-GUEST-01.caremark.com,10.123.159.32,ASA Firewall,"Scottsdale, AZ Shea Data CTR Xtranet",PSS
+PAZSHDC-SEC-EXT-NET-PA-01,palo_alto,PA-1420,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-NET-PA-01,10.10.124.75,Palo Alto Firewall,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXT-NET-PA-02,palo_alto,PA-1420,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-NET-PA-02,10.10.124.76,Palo Alto Firewall,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXT-NET4WIR-01/acs,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/alere,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/Anthem,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/britishtelecom,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/Continuum,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/ConveyNations,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/emdeon,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/EPCSVerizon,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/heartland,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/medhok,cisco,ASA5585-SSP-60,B2B|PERIMETER,FOUND_IN_FTC_REPORT,medhok,10.126.5.22,ASA on FTD,Dallas. TX Cloud Equinix,PSS
+PAZSHDC-SEC-EXT-NET4WIR-01/MedHokAWS,cisco,ASA5585-SSP-60,B2B|CLOUD|PERIMETER,FOUND_IN_FTC_REPORT,medhok,10.126.5.22,ASA on FTD,Dallas. TX Cloud Equinix,PSS
+PAZSHDC-SEC-EXT-NET4WIR-01/omnicare,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/partner,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/RelayHealth,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/tcs,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/TCS-VLAN88,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/trizetto,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/TTEC,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/vantiv,cisco,ASA5585-SSP-60,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-NET4WIR-01/wellpoint,cisco,ASA5585-SSP-60,B2B|INTERNAL|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXT-SDWAN-01,cisco,FPR4K-SM-12,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-SDWAN-01.cvs.com,10.10.124.33,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXT-VPN-01,cisco,ASA5585-SSP-40,PERIMETER|VPN,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-VPN-01,10.123.254.196,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXT-VPN-02,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER|VPN,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-VPN-02,10.123.254.197,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXT-WFH-01,cisco,ASA5555 (V01),PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXT-WFH-01.caremark.com,10.10.109.166,ASA Firewall,"Scottsdale, AZ Shea Data CTR Xtranet",PSS
+PAZSHDC-SEC-EXTATG-01,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXTATG-02,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXTATG-02,10.10.123.57,ASA on FTD,"Scottsdale, AZ Shea Data Center Firewalls",PSS
+PAZSHDC-SEC-EXTWIR-02,cisco,Cisco Firepower 9000 Series SM-56 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PAZSHDC-SEC-EXTWIR-PA-01,palo_alto,PA-5450,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXTWIR-PA-01,10.10.124.85,Palo Alto Firewall,"Scottsdale, AZ Shea Data CTR Xtranet",PSS
+PAZSHDC-SEC-EXTWIR-PA-02,palo_alto,PA-5450,PERIMETER,FOUND_IN_FTC_REPORT,PAZSHDC-SEC-EXTWIR-PA-02,10.10.124.86,Palo Alto Firewall,"Scottsdale, AZ Shea Data CTR Xtranet",PSS
+pazshdcsecextrs-1/SIP,cisco,,INTERNAL|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+PCASTPV-SEC-DC-5NINE-FTD-01,cisco,Cisco Firepower 4145 Threat Defense,B2B,NOT_IN_FTC_REPORT,,,,,
+PCASTPV-SEC-DC-5NINE-FTD-02,cisco,Cisco Firepower 4145 Threat Defense,B2B,NOT_IN_FTC_REPORT,,,,,
+PGATLPV-SEC-DC-5NINE-FTD-01,cisco,Cisco Firepower 4145 Threat Defense,B2B,NOT_IN_FTC_REPORT,,,,,
+PGATLPV-SEC-DC-5NINE-FTD-02,cisco,Cisco Firepower 4145 Threat Defense,B2B,NOT_IN_FTC_REPORT,,,,,
+pmnedpvsecintmdf-1,cisco,,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+PRIWSDRSECEXTCA32-1-FTD,cisco,Cisco Firepower 4150 Threat Defense,DR|PERIMETER,FOUND_IN_FTC_REPORT,PRIWSDRSECEXTCA32-1-FTD,10.45.143.254,ASA on FTD,"Woonsocket, RI",PSS
+PTXDADC-SEC-CLDEQ-01,cisco,Cisco Firepower 9000 Series SM-56 Threat Defense,CC,FOUND_IN_FTC_REPORT,PTXDADC-SEC-CLDEQ-01-FO,10.223.255.190,ASA on FTD,Dallas. TX Cloud Equinix,PSS
+PTXDADC-SEC-CLDEQ-02,cisco,Cisco Firepower 9000 Series SM-56 Threat Defense,CC,FOUND_IN_FTC_REPORT,PTXDADC-SEC-CLDEQ-02,10.223.255.187,ASA on FTD,Dallas. TX Cloud Equinix,PSS
+RAZSHDC-SEC-INTRXC-02,cisco,Cisco Firepower 4145 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRICMCP-SEC-INTRXC-01,cisco,Cisco Firepower 4145 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRICMCP-SEC-INTRXC-02,cisco,Cisco Firepower 4145 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRICMCP-SEC-MPLEAST-01/anthem,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/britishtelecom,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/continuum,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/convey,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/ext-cloud,cisco,ASA5585-SSP-60,B2B|PERIMETER,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/geneva,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/grandview,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/heartland,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/mckesson,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/medcare,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/medhok,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,medhok,10.126.5.22,ASA on FTD,Dallas. TX Cloud Equinix,PSS
+RRICMCP-SEC-MPLEAST-01/merwin,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/omnicare,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/opera,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/tcs,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/TTEC,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMCP-SEC-MPLEAST-01/wellpartner,cisco,ASA5585-SSP-60,B2B,FOUND_IN_FTC_REPORT,RRICMCP-SEC-MPLEAST-01,10.18.126.251,ASA Firewall,"Cumberland, RI Data Center Firewalls",Retail
+RRICMDC-SEC-EXTATG-01,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+RRICMDC-SEC-EXTATG-02,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,FOUND_IN_FTC_REPORT,RRICMDC-SEC-EXTATG-02,10.18.243.199,ASA on FTD,"Cumberland, RI Data Center Firewalls",Retail
+RRICRCP-SEC-DCLAB-01,cisco,Cisco Firepower 2130 Threat Defense,LAB,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-EXT-DCOM-02,cisco,Cisco Firepower 4145 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-EXT-EMPTEMP-PA-01,palo_alto,PA-5430,PERIMETER,FOUND_IN_FTC_REPORT,RRIWSCP-SEC-EXT-EMPTEMP-PA-01,10.17.209.177,Palo Alto Firewall,"Woonsocket, RI Data CTR 1 CVS Firewall",Retail
+RRIWSCP-SEC-EXT-EMPTEMP-PA-02,palo_alto,PA-5430,PERIMETER,FOUND_IN_FTC_REPORT,RRIWSCP-SEC-EXT-EMPTEMP-PA-02,10.17.209.178,Palo Alto Firewall,"Woonsocket, RI Data CTR 1 CVS Firewall",Retail
+RRIWSCP-SEC-EXTDCOMPT-FTD-01,cisco,Cisco Firepower 4120 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-EXTDCOMPT-FTD-02,cisco,Cisco Firepower 4120 Threat Defense,PERIMETER,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-EXTDCOMUAT-FTD-01,cisco,Cisco Firepower 4120 Threat Defense,B2B|PERIMETER,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-INTDCOM-DR-01,cisco,Cisco Firepower 4145 Threat Defense,DR|INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-INTDCOM-DR-02,cisco,Cisco Firepower 4145 Threat Defense,DR|INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRIWSCP-SEC-STORELAB-01-RSIA,cisco,Cisco Firepower 4115 Threat Defense,LAB,FOUND_IN_FTC_REPORT,RRIWSCP-SEC-STORELAB-01-RSIA,10.134.163.12,ASA on FTD,"Woonsocket, RI Data CTR 1 CVS Firewall",Retail
+RRIWSCP-SEC-STORELAB-02-RSIA,cisco,Cisco Firepower 4115 Threat Defense,LAB,FOUND_IN_FTC_REPORT,RRIWSCP-SEC-STORELAB-02-RSIA,10.134.163.15,ASA on FTD,"Woonsocket, RI Data CTR 1 CVS Firewall",Retail
+rriwscpsecintdcom-1-DR,cisco,,DR|INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRIWSDC-SEC-EXT-APP-PA-01,palo_alto,PA-1420,INTERNAL|PERIMETER,FOUND_IN_FTC_REPORT,RRIWSDC-SEC-EXT-APP-PA-01,10.131.2.50,Palo Alto Firewall,"Woonsocket, RI",Retail
+RRIWSDC-SEC-EXT-APP-PA-02,palo_alto,PA-1420,INTERNAL|PERIMETER,FOUND_IN_FTC_REPORT,RRIWSDC-SEC-EXT-APP-PA-02,10.131.2.51,Palo Alto Firewall,"Woonsocket, RI",Retail
+RRIWSDC-SEC-INT-VIEW-01,cisco,ASA5516 (V05),INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RRIWSDC-SEC-INT121B-01/pbm-retail,cisco,FPR4K-SM-44S,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+RVAASCP-SEC-CLDEQ-02,cisco,Cisco Firepower 9000 Series SM-56 Threat Defense,CC,NOT_IN_FTC_REPORT,,,,,
+win-fw-ironman-2,cisco,Cisco Firepower 2130 Threat Defense,INTERNAL,NOT_IN_FTC_REPORT,,,,,
+win-fw-pcidevweb-1,cisco,Cisco Firepower 4145 Threat Defense,DEV|PCI,NOT_IN_FTC_REPORT,,,,,
+win-fw-pcidevweb-2,cisco,Cisco Firepower 4145 Threat Defense,DEV|PCI,NOT_IN_FTC_REPORT,,,,,
+WON-SEC-INNO-LAB-01,cisco,ASA5516 (V05),LAB,NOT_IN_FTC_REPORT,,,,,
